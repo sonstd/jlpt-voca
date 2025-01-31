@@ -1,0 +1,6752 @@
+[
+  {
+    "tango": "愛情",
+    "yomikata": "あいじょう",
+    "imi": "애정"
+  },
+  {
+    "tango": "青空",
+    "yomikata": "あおぞら",
+    "imi": "푸른 하늘"
+  },
+  {
+    "tango": "赤字",
+    "yomikata": "あかじ",
+    "imi": "적자"
+  },
+  {
+    "tango": "明かり",
+    "yomikata": "あかり",
+    "imi": "불빛"
+  },
+  {
+    "tango": "悪循環",
+    "yomikata": "あくじゅんかん",
+    "imi": "악순환"
+  },
+  {
+    "tango": "悪条件",
+    "yomikata": "あくじょうけん",
+    "imi": "악조건"
+  },
+  {
+    "tango": "悪天候",
+    "yomikata": "あくてんこう",
+    "imi": "악천후"
+  },
+  {
+    "tango": "悪魔",
+    "yomikata": "あくま",
+    "imi": "악마"
+  },
+  {
+    "tango": "明け方",
+    "yomikata": "あけがた",
+    "imi": "새벽녘"
+  },
+  {
+    "tango": "辺り",
+    "yomikata": "あたり",
+    "imi": "근처"
+  },
+  {
+    "tango": "圧縮",
+    "yomikata": "あっしゅく",
+    "imi": "압축"
+  },
+  {
+    "tango": "圧勝",
+    "yomikata": "あっしょう",
+    "imi": "압승"
+  },
+  {
+    "tango": "宛名",
+    "yomikata": "あてな",
+    "imi": "수신인"
+  },
+  {
+    "tango": "跡",
+    "yomikata": "あと",
+    "imi": "흔적"
+  },
+  {
+    "tango": "跡地",
+    "yomikata": "あとち",
+    "imi": "철거부지"
+  },
+  {
+    "tango": "過ち",
+    "yomikata": "あやまち",
+    "imi": "과오, 과실"
+  },
+  {
+    "tango": "誤り",
+    "yomikata": "あやまり",
+    "imi": "잘못, 실수"
+  },
+  {
+    "tango": "嵐",
+    "yomikata": "あらし",
+    "imi": "폭풍"
+  },
+  {
+    "tango": "粗筋",
+    "yomikata": "あらすじ",
+    "imi": "개요"
+  },
+  {
+    "tango": "有り",
+    "yomikata": "あり",
+    "imi": "있음"
+  },
+  {
+    "tango": "案",
+    "yomikata": "あん",
+    "imi": "안, 생각"
+  },
+  {
+    "tango": "安定",
+    "yomikata": "あんてい",
+    "imi": "안정"
+  },
+  {
+    "tango": "胃",
+    "yomikata": "い",
+    "imi": "위(인체 기관)"
+  },
+  {
+    "tango": "委員",
+    "yomikata": "いいん",
+    "imi": "위원"
+  },
+  {
+    "tango": "居酒屋",
+    "yomikata": "いざかや",
+    "imi": "선술집"
+  },
+  {
+    "tango": "遺産",
+    "yomikata": "いさん",
+    "imi": "유산"
+  },
+  {
+    "tango": "維持",
+    "yomikata": "いじ",
+    "imi": "유지"
+  },
+  {
+    "tango": "意識",
+    "yomikata": "いしき",
+    "imi": "의식"
+  },
+  {
+    "tango": "異常",
+    "yomikata": "いじょう",
+    "imi": "이상"
+  },
+  {
+    "tango": "衣食住",
+    "yomikata": "いしょくじゅう",
+    "imi": "의식주"
+  },
+  {
+    "tango": "泉",
+    "yomikata": "いずみ",
+    "imi": "샘, 샘물"
+  },
+  {
+    "tango": "いたずら",
+    "yomikata": "",
+    "imi": "장난"
+  },
+  {
+    "tango": "一家",
+    "yomikata": "いっか",
+    "imi": "일가"
+  },
+  {
+    "tango": "一種",
+    "yomikata": "いっしゅ",
+    "imi": "일종"
+  },
+  {
+    "tango": "一瞬",
+    "yomikata": "いっしゅん",
+    "imi": "일순간"
+  },
+  {
+    "tango": "一睡",
+    "yomikata": "いっすい",
+    "imi": "한잠, 짧은 잠"
+  },
+  {
+    "tango": "一石二鳥",
+    "yomikata": "いっせきにちょう",
+    "imi": "일석이조"
+  },
+  {
+    "tango": "一致",
+    "yomikata": "いっち",
+    "imi": "일치"
+  },
+  {
+    "tango": "一定",
+    "yomikata": "いってい",
+    "imi": "일정"
+  },
+  {
+    "tango": "一方",
+    "yomikata": "いっぽう",
+    "imi": "한편"
+  },
+  {
+    "tango": "移転",
+    "yomikata": "いてん",
+    "imi": "이전"
+  },
+  {
+    "tango": "井戸",
+    "yomikata": "いど",
+    "imi": "우물"
+  },
+  {
+    "tango": "稲",
+    "yomikata": "いね",
+    "imi": "벼"
+  },
+  {
+    "tango": "衣服",
+    "yomikata": "いふく",
+    "imi": "의복"
+  },
+  {
+    "tango": "遺物",
+    "yomikata": "いぶつ",
+    "imi": "유물"
+  },
+  {
+    "tango": "今頃",
+    "yomikata": "いまごろ",
+    "imi": "지금쯤"
+  },
+  {
+    "tango": "意欲",
+    "yomikata": "いよく",
+    "imi": "의욕"
+  },
+  {
+    "tango": "以来",
+    "yomikata": "いらい",
+    "imi": "이래"
+  },
+  {
+    "tango": "印刷",
+    "yomikata": "いんさつ",
+    "imi": "인쇄"
+  },
+  {
+    "tango": "引退",
+    "yomikata": "いんたい",
+    "imi": "은퇴"
+  },
+  {
+    "tango": "引用",
+    "yomikata": "いんよう",
+    "imi": "인용"
+  },
+  {
+    "tango": "引力",
+    "yomikata": "いんりょく",
+    "imi": "인력"
+  },
+  {
+    "tango": "植木",
+    "yomikata": "うえき",
+    "imi": "정원수"
+  },
+  {
+    "tango": "打ち合わせ",
+    "yomikata": "うちあわせ",
+    "imi": "협의"
+  },
+  {
+    "tango": "宇宙",
+    "yomikata": "うちゅう",
+    "imi": "우주"
+  },
+  {
+    "tango": "腕前",
+    "yomikata": "うでまえ",
+    "imi": "실력, 솜씨"
+  },
+  {
+    "tango": "海沿い",
+    "yomikata": "うみぞい",
+    "imi": "해안, 바닷가"
+  },
+  {
+    "tango": "海辺",
+    "yomikata": "うみべ",
+    "imi": "해변"
+  },
+  {
+    "tango": "有無",
+    "yomikata": "うむ",
+    "imi": "유무"
+  },
+  {
+    "tango": "裏口",
+    "yomikata": "うらぐち",
+    "imi": "뒷문"
+  },
+  {
+    "tango": "恨み",
+    "yomikata": "うらみ",
+    "imi": "원한"
+  },
+  {
+    "tango": "売れ行き",
+    "yomikata": "うれゆき",
+    "imi": "매출, 팔림새"
+  },
+  {
+    "tango": "運行",
+    "yomikata": "うんこう",
+    "imi": "운행"
+  },
+  {
+    "tango": "永久",
+    "yomikata": "えいきゅう",
+    "imi": "영구, 영원"
+  },
+  {
+    "tango": "衛生",
+    "yomikata": "えいせい",
+    "imi": "위생"
+  },
+  {
+    "tango": "衛星",
+    "yomikata": "えいせい",
+    "imi": "위성"
+  },
+  {
+    "tango": "液体",
+    "yomikata": "えきたい",
+    "imi": "액체"
+  },
+  {
+    "tango": "餌",
+    "yomikata": "えさ",
+    "imi": "먹이"
+  },
+  {
+    "tango": "会釈",
+    "yomikata": "えしゃく",
+    "imi": "인사, 가벼운 인사"
+  },
+  {
+    "tango": "得手",
+    "yomikata": "えて",
+    "imi": "장기, 특기"
+  },
+  {
+    "tango": "絵の具",
+    "yomikata": "えのぐ",
+    "imi": "그림물감"
+  },
+  {
+    "tango": "絵本",
+    "yomikata": "えほん",
+    "imi": "그림책"
+  },
+  {
+    "tango": "延期",
+    "yomikata": "えんき",
+    "imi": "연기, 뒤로 미룸"
+  },
+  {
+    "tango": "演技",
+    "yomikata": "えんぎ",
+    "imi": "연기(예술적 재주)"
+  },
+  {
+    "tango": "園芸",
+    "yomikata": "えんげい",
+    "imi": "원예"
+  },
+  {
+    "tango": "演習",
+    "yomikata": "えんしゅう",
+    "imi": "연습, 훈련"
+  },
+  {
+    "tango": "援助",
+    "yomikata": "えんじょ",
+    "imi": "원조, 도와줌"
+  },
+  {
+    "tango": "演説",
+    "yomikata": "えんぜつ",
+    "imi": "연설"
+  },
+  {
+    "tango": "円高",
+    "yomikata": "えんだか",
+    "imi": "엔고, 엔화 강세"
+  },
+  {
+    "tango": "延長",
+    "yomikata": "えんちょう",
+    "imi": "연장, 길어짐, 이어짐"
+  },
+  {
+    "tango": "煙突",
+    "yomikata": "えんとつ",
+    "imi": "굴뚝"
+  },
+  {
+    "tango": "円安",
+    "yomikata": "えんやす",
+    "imi": "엔하락, 엔화 약세"
+  },
+  {
+    "tango": "王女",
+    "yomikata": "おうじょ",
+    "imi": "왕녀, 공주"
+  },
+  {
+    "tango": "応接",
+    "yomikata": "おうせつ",
+    "imi": "용접"
+  },
+  {
+    "tango": "応対",
+    "yomikata": "おうたい",
+    "imi": "응대, 상대"
+  },
+  {
+    "tango": "横断",
+    "yomikata": "おうだん",
+    "imi": "횡단"
+  },
+  {
+    "tango": "欧米",
+    "yomikata": "おうべい",
+    "imi": "구미, 미국과 유럽"
+  },
+  {
+    "tango": "往来",
+    "yomikata": "おうらい",
+    "imi": "왕래"
+  },
+  {
+    "tango": "大型",
+    "yomikata": "おおがた",
+    "imi": "대형"
+  },
+  {
+    "tango": "大声",
+    "yomikata": "おおごえ",
+    "imi": "큰 소리"
+  },
+  {
+    "tango": "大昔",
+    "yomikata": "おおむかし",
+    "imi": "먼 옛날"
+  },
+  {
+    "tango": "多め",
+    "yomikata": "おおめ",
+    "imi": "조금 많은 듯함"
+  },
+  {
+    "tango": "丘",
+    "yomikata": "おか",
+    "imi": "언덕"
+  },
+  {
+    "tango": "おかず",
+    "yomikata": "",
+    "imi": "반찬"
+  },
+  {
+    "tango": "悪寒",
+    "yomikata": "おかん",
+    "imi": "오한"
+  },
+  {
+    "tango": "お勘定",
+    "yomikata": "おかんじょう",
+    "imi": "계산, 지불"
+  },
+  {
+    "tango": "沖",
+    "yomikata": "おき",
+    "imi": "바다, 먼 바다"
+  },
+  {
+    "tango": "お気に入り",
+    "yomikata": "おきにいり",
+    "imi": "마음에 듦"
+  },
+  {
+    "tango": "お辞儀",
+    "yomikata": "おじぎ",
+    "imi": "인사, 절"
+  },
+  {
+    "tango": "おしゃべり",
+    "yomikata": "",
+    "imi": "수다"
+  },
+  {
+    "tango": "汚染",
+    "yomikata": "おせん",
+    "imi": "오염"
+  },
+  {
+    "tango": "恐れ",
+    "yomikata": "おそれ",
+    "imi": "두려움, 우려"
+  },
+  {
+    "tango": "鬼",
+    "yomikata": "おに",
+    "imi": "도깨비, 귀신"
+  },
+  {
+    "tango": "お昼",
+    "yomikata": "おひる",
+    "imi": "점심, 점심 식사"
+  },
+  {
+    "tango": "お前",
+    "yomikata": "おまえ",
+    "imi": "너"
+  },
+  {
+    "tango": "おまけ",
+    "yomikata": "",
+    "imi": "덤, 경품"
+  },
+  {
+    "tango": "泳ぎ",
+    "yomikata": "およぎ",
+    "imi": "헤엄치기, 수영"
+  },
+  {
+    "tango": "恩恵",
+    "yomikata": "おんけい",
+    "imi": "은혜, 혜택"
+  },
+  {
+    "tango": "温帯",
+    "yomikata": "おんたい",
+    "imi": "온대"
+  },
+  {
+    "tango": "御中",
+    "yomikata": "おんちゅう",
+    "imi": "귀중(단체 뒤에 붙이는 말)"
+  },
+  {
+    "tango": "音程",
+    "yomikata": "おんてい",
+    "imi": "음정"
+  },
+  {
+    "tango": "蚊",
+    "yomikata": "か",
+    "imi": "모기"
+  },
+  {
+    "tango": "害",
+    "yomikata": "がい",
+    "imi": "해, 손해"
+  },
+  {
+    "tango": "開会",
+    "yomikata": "かいかい",
+    "imi": "개회"
+  },
+  {
+    "tango": "会見",
+    "yomikata": "かいけん",
+    "imi": "회견"
+  },
+  {
+    "tango": "外見",
+    "yomikata": "がいけん",
+    "imi": "외관"
+  },
+  {
+    "tango": "外交",
+    "yomikata": "がいこう",
+    "imi": "외교"
+  },
+  {
+    "tango": "開催",
+    "yomikata": "かいさい",
+    "imi": "개최"
+  },
+  {
+    "tango": "改札",
+    "yomikata": "かいさつ",
+    "imi": "개찰"
+  },
+  {
+    "tango": "解散",
+    "yomikata": "かいさん",
+    "imi": "해산"
+  },
+  {
+    "tango": "開始",
+    "yomikata": "かいし",
+    "imi": "개시"
+  },
+  {
+    "tango": "解釈",
+    "yomikata": "かいしゃく",
+    "imi": "해석"
+  },
+  {
+    "tango": "解消",
+    "yomikata": "かいしょう",
+    "imi": "해소"
+  },
+  {
+    "tango": "海上",
+    "yomikata": "かいじょう",
+    "imi": "해상"
+  },
+  {
+    "tango": "回数",
+    "yomikata": "かいすう",
+    "imi": "횟수"
+  },
+  {
+    "tango": "快晴",
+    "yomikata": "かいせい",
+    "imi": "쾌청"
+  },
+  {
+    "tango": "改正",
+    "yomikata": "かいせい",
+    "imi": "개정"
+  },
+  {
+    "tango": "改善",
+    "yomikata": "かいぜん",
+    "imi": "개선"
+  },
+  {
+    "tango": "改造",
+    "yomikata": "かいぞう",
+    "imi": "개조"
+  },
+  {
+    "tango": "快速",
+    "yomikata": "かいそく",
+    "imi": "쾌속"
+  },
+  {
+    "tango": "開通",
+    "yomikata": "かいつう",
+    "imi": "개통"
+  },
+  {
+    "tango": "回転",
+    "yomikata": "かいてん",
+    "imi": "회전"
+  },
+  {
+    "tango": "回答",
+    "yomikata": "かいとう",
+    "imi": "회답, 대답"
+  },
+  {
+    "tango": "解答",
+    "yomikata": "かいとう",
+    "imi": "해답, 정답"
+  },
+  {
+    "tango": "飼い主",
+    "yomikata": "かいぬし",
+    "imi": "주인(동물을 기르는 사람)"
+  },
+  {
+    "tango": "会費",
+    "yomikata": "かいひ",
+    "imi": "회비"
+  },
+  {
+    "tango": "回復",
+    "yomikata": "かいふく",
+    "imi": "회복"
+  },
+  {
+    "tango": "解放",
+    "yomikata": "かいほう",
+    "imi": "해방"
+  },
+  {
+    "tango": "海面",
+    "yomikata": "かいめん",
+    "imi": "해면"
+  },
+  {
+    "tango": "海洋",
+    "yomikata": "かいよう",
+    "imi": "해양"
+  },
+  {
+    "tango": "概論",
+    "yomikata": "がいろん",
+    "imi": "개론"
+  },
+  {
+    "tango": "家屋",
+    "yomikata": "かおく",
+    "imi": "가옥"
+  },
+  {
+    "tango": "顔つき",
+    "yomikata": "かおつき",
+    "imi": "얼굴 생김새, 용모"
+  },
+  {
+    "tango": "垣根",
+    "yomikata": "かきね",
+    "imi": "울타리"
+  },
+  {
+    "tango": "限り",
+    "yomikata": "かぎり",
+    "imi": "한계, 한도"
+  },
+  {
+    "tango": "架空",
+    "yomikata": "かくう",
+    "imi": "가공, 상상, 허구"
+  },
+  {
+    "tango": "各自",
+    "yomikata": "かくじ",
+    "imi": "각자"
+  },
+  {
+    "tango": "学者",
+    "yomikata": "がくしゃ",
+    "imi": "학자"
+  },
+  {
+    "tango": "拡充",
+    "yomikata": "かくじゅう",
+    "imi": "확충"
+  },
+  {
+    "tango": "学術",
+    "yomikata": "がくじゅつ",
+    "imi": "학술"
+  },
+  {
+    "tango": "核心",
+    "yomikata": "かくしん",
+    "imi": "핵심"
+  },
+  {
+    "tango": "各人",
+    "yomikata": "かくじん",
+    "imi": "각자"
+  },
+  {
+    "tango": "拡張",
+    "yomikata": "かくちょう",
+    "imi": "확장"
+  },
+  {
+    "tango": "角度",
+    "yomikata": "かくど",
+    "imi": "각도"
+  },
+  {
+    "tango": "学年",
+    "yomikata": "がくねん",
+    "imi": "학년"
+  },
+  {
+    "tango": "確保",
+    "yomikata": "かくほ",
+    "imi": "확보"
+  },
+  {
+    "tango": "確率",
+    "yomikata": "かくりつ",
+    "imi": "확률"
+  },
+  {
+    "tango": "影",
+    "yomikata": "かげ",
+    "imi": "그림자"
+  },
+  {
+    "tango": "可決",
+    "yomikata": "かけつ",
+    "imi": "가결"
+  },
+  {
+    "tango": "かけら",
+    "yomikata": "",
+    "imi": "파편"
+  },
+  {
+    "tango": "加減",
+    "yomikata": "かげん",
+    "imi": "① 가감, 더하기·빼기   ② 조절"
+  },
+  {
+    "tango": "籠",
+    "yomikata": "かご",
+    "imi": "바구니"
+  },
+  {
+    "tango": "加工",
+    "yomikata": "かこう",
+    "imi": "가공"
+  },
+  {
+    "tango": "下降",
+    "yomikata": "かこう",
+    "imi": "하강"
+  },
+  {
+    "tango": "火山",
+    "yomikata": "かざん",
+    "imi": "화산"
+  },
+  {
+    "tango": "家事",
+    "yomikata": "かじ",
+    "imi": "가사, 집안 일"
+  },
+  {
+    "tango": "過失",
+    "yomikata": "かしつ",
+    "imi": "과실, 실수"
+  },
+  {
+    "tango": "果実",
+    "yomikata": "かじつ",
+    "imi": "과실, 열매"
+  },
+  {
+    "tango": "貸家",
+    "yomikata": "かしや",
+    "imi": "셋집"
+  },
+  {
+    "tango": "箇所",
+    "yomikata": "かしょ",
+    "imi": "개소, 군데"
+  },
+  {
+    "tango": "過剰",
+    "yomikata": "かじょう",
+    "imi": "과잉"
+  },
+  {
+    "tango": "課税",
+    "yomikata": "かぜい",
+    "imi": "과세"
+  },
+  {
+    "tango": "下線",
+    "yomikata": "かせん",
+    "imi": "밑줄"
+  },
+  {
+    "tango": "加速",
+    "yomikata": "かそく",
+    "imi": "가속"
+  },
+  {
+    "tango": "過大",
+    "yomikata": "かだい",
+    "imi": "과대함, 지나침"
+  },
+  {
+    "tango": "塊",
+    "yomikata": "かたまり",
+    "imi": "덩어리, 뭉치"
+  },
+  {
+    "tango": "学会",
+    "yomikata": "がっかい",
+    "imi": "학회"
+  },
+  {
+    "tango": "学級",
+    "yomikata": "がっきゅう",
+    "imi": "학급"
+  },
+  {
+    "tango": "括弧",
+    "yomikata": "かっこ",
+    "imi": "괄호"
+  },
+  {
+    "tango": "各国",
+    "yomikata": "かっこく",
+    "imi": "각국"
+  },
+  {
+    "tango": "活字",
+    "yomikata": "かつじ",
+    "imi": "활자"
+  },
+  {
+    "tango": "活躍",
+    "yomikata": "かつやく",
+    "imi": "활약"
+  },
+  {
+    "tango": "活用",
+    "yomikata": "かつよう",
+    "imi": "활용"
+  },
+  {
+    "tango": "活力",
+    "yomikata": "かつりょく",
+    "imi": "활력"
+  },
+  {
+    "tango": "課程",
+    "yomikata": "かてい",
+    "imi": "과정(코스)"
+  },
+  {
+    "tango": "過程",
+    "yomikata": "かてい",
+    "imi": "과정(진행 과정)"
+  },
+  {
+    "tango": "稼動",
+    "yomikata": "かどう",
+    "imi": "가동, 움직여 일함"
+  },
+  {
+    "tango": "仮名",
+    "yomikata": "かな",
+    "imi": "일본의 문자"
+  },
+  {
+    "tango": "鐘",
+    "yomikata": "かね",
+    "imi": "종"
+  },
+  {
+    "tango": "加熱",
+    "yomikata": "かねつ",
+    "imi": "가열"
+  },
+  {
+    "tango": "過半数",
+    "yomikata": "かはんすう",
+    "imi": "과반수"
+  },
+  {
+    "tango": "かび",
+    "yomikata": "",
+    "imi": "곰팡이"
+  },
+  {
+    "tango": "株",
+    "yomikata": "かぶ",
+    "imi": "주식"
+  },
+  {
+    "tango": "釜",
+    "yomikata": "かま",
+    "imi": "솥"
+  },
+  {
+    "tango": "髪型",
+    "yomikata": "かみがた",
+    "imi": "머리 모양"
+  },
+  {
+    "tango": "紙くず",
+    "yomikata": "かみくず",
+    "imi": "휴지"
+  },
+  {
+    "tango": "神様",
+    "yomikata": "かみさま",
+    "imi": "신"
+  },
+  {
+    "tango": "剃刀",
+    "yomikata": "かみそり",
+    "imi": "면도칼"
+  },
+  {
+    "tango": "雷",
+    "yomikata": "かみなり",
+    "imi": "천둥, 벼락"
+  },
+  {
+    "tango": "髪の毛",
+    "yomikata": "かみのけ",
+    "imi": "머리카락"
+  },
+  {
+    "tango": "貨物",
+    "yomikata": "かもつ",
+    "imi": "화물"
+  },
+  {
+    "tango": "殻",
+    "yomikata": "から",
+    "imi": "껍질, 허물, 외피"
+  },
+  {
+    "tango": "柄",
+    "yomikata": "がら",
+    "imi": "① 무늬   ② 몸집   ③ 성격"
+  },
+  {
+    "tango": "空梅雨",
+    "yomikata": "からつゆ",
+    "imi": "마른장마, 장마철에 비가 오지 않음"
+  },
+  {
+    "tango": "川岸",
+    "yomikata": "かわぎし",
+    "imi": "냇가, 강가, 강기슭"
+  },
+  {
+    "tango": "革靴",
+    "yomikata": "かわぐつ",
+    "imi": "가죽 구두"
+  },
+  {
+    "tango": "為替",
+    "yomikata": "かわせ",
+    "imi": "환율"
+  },
+  {
+    "tango": "瓦",
+    "yomikata": "かわら",
+    "imi": "기와"
+  },
+  {
+    "tango": "癌",
+    "yomikata": "がん",
+    "imi": "암"
+  },
+  {
+    "tango": "換気",
+    "yomikata": "かんき",
+    "imi": "환기"
+  },
+  {
+    "tango": "観客",
+    "yomikata": "かんきゃく",
+    "imi": "관객"
+  },
+  {
+    "tango": "関係",
+    "yomikata": "かんけい",
+    "imi": "관계"
+  },
+  {
+    "tango": "歓迎",
+    "yomikata": "かんげい",
+    "imi": "환영"
+  },
+  {
+    "tango": "感激",
+    "yomikata": "かんげき",
+    "imi": "감격"
+  },
+  {
+    "tango": "観察",
+    "yomikata": "かんさつ",
+    "imi": "관찰"
+  },
+  {
+    "tango": "監視",
+    "yomikata": "かんし",
+    "imi": "감시"
+  },
+  {
+    "tango": "元日",
+    "yomikata": "がんじつ",
+    "imi": "설날"
+  },
+  {
+    "tango": "鑑賞",
+    "yomikata": "かんしょう",
+    "imi": "감상"
+  },
+  {
+    "tango": "完成",
+    "yomikata": "かんせい",
+    "imi": "완성"
+  },
+  {
+    "tango": "乾燥",
+    "yomikata": "かんそう",
+    "imi": "건조"
+  },
+  {
+    "tango": "観測",
+    "yomikata": "かんそく",
+    "imi": "관측"
+  },
+  {
+    "tango": "寒帯",
+    "yomikata": "かんたい",
+    "imi": "한대, 추운 지역"
+  },
+  {
+    "tango": "勘違い",
+    "yomikata": "かんちがい",
+    "imi": "착각, 오해"
+  },
+  {
+    "tango": "官庁",
+    "yomikata": "かんちょう",
+    "imi": "관청"
+  },
+  {
+    "tango": "缶詰",
+    "yomikata": "かんづめ",
+    "imi": "통조림"
+  },
+  {
+    "tango": "乾電池",
+    "yomikata": "かんでんち",
+    "imi": "건전지"
+  },
+  {
+    "tango": "監督",
+    "yomikata": "かんとく",
+    "imi": "감독"
+  },
+  {
+    "tango": "館内",
+    "yomikata": "かんない",
+    "imi": "관내"
+  },
+  {
+    "tango": "観念",
+    "yomikata": "かんねん",
+    "imi": "관념"
+  },
+  {
+    "tango": "看板",
+    "yomikata": "かんばん",
+    "imi": "간판"
+  },
+  {
+    "tango": "看病",
+    "yomikata": "かんびょう",
+    "imi": "간병"
+  },
+  {
+    "tango": "願望",
+    "yomikata": "がんぼう",
+    "imi": "소망"
+  },
+  {
+    "tango": "勧誘",
+    "yomikata": "かんゆう",
+    "imi": "권유"
+  },
+  {
+    "tango": "管理",
+    "yomikata": "かんり",
+    "imi": "관리"
+  },
+  {
+    "tango": "関連",
+    "yomikata": "かんれん",
+    "imi": "관련"
+  },
+  {
+    "tango": "気圧",
+    "yomikata": "きあつ",
+    "imi": "기압"
+  },
+  {
+    "tango": "議員",
+    "yomikata": "ぎいん",
+    "imi": "의원"
+  },
+  {
+    "tango": "記憶",
+    "yomikata": "きおく",
+    "imi": "기억"
+  },
+  {
+    "tango": "議会",
+    "yomikata": "ぎかい",
+    "imi": "의회"
+  },
+  {
+    "tango": "着替え",
+    "yomikata": "きがえ",
+    "imi": "옷을 갈아입음"
+  },
+  {
+    "tango": "機関",
+    "yomikata": "きかん",
+    "imi": "기관"
+  },
+  {
+    "tango": "危機",
+    "yomikata": "きき",
+    "imi": "위기"
+  },
+  {
+    "tango": "企業",
+    "yomikata": "きぎょう",
+    "imi": "기업"
+  },
+  {
+    "tango": "飢饉",
+    "yomikata": "ききん",
+    "imi": "기근, 모자람"
+  },
+  {
+    "tango": "器具",
+    "yomikata": "きぐ",
+    "imi": "기구"
+  },
+  {
+    "tango": "機嫌",
+    "yomikata": "きげん",
+    "imi": "기분, 심기"
+  },
+  {
+    "tango": "気候",
+    "yomikata": "きこう",
+    "imi": "기후, 날씨"
+  },
+  {
+    "tango": "記号",
+    "yomikata": "きごう",
+    "imi": "기호"
+  },
+  {
+    "tango": "岸",
+    "yomikata": "きし",
+    "imi": "물가, 기슭, 벼랑"
+  },
+  {
+    "tango": "生地",
+    "yomikata": "きじ",
+    "imi": "① 본성   ② 옷감   ③ 반죽"
+  },
+  {
+    "tango": "技師",
+    "yomikata": "ぎし",
+    "imi": "기사, 엔지니어"
+  },
+  {
+    "tango": "儀式",
+    "yomikata": "ぎしき",
+    "imi": "의식, 행사"
+  },
+  {
+    "tango": "貴社",
+    "yomikata": "きしゃ",
+    "imi": "귀사"
+  },
+  {
+    "tango": "基準",
+    "yomikata": "きじゅん",
+    "imi": "기준"
+  },
+  {
+    "tango": "起床",
+    "yomikata": "きしょう",
+    "imi": "기상, 잠자리에서 일어남"
+  },
+  {
+    "tango": "奇数",
+    "yomikata": "きすう",
+    "imi": "기수, 홀수"
+  },
+  {
+    "tango": "規制",
+    "yomikata": "きせい",
+    "imi": "규제"
+  },
+  {
+    "tango": "帰省",
+    "yomikata": "きせい",
+    "imi": "귀성, 고향으로 돌아감"
+  },
+  {
+    "tango": "基礎",
+    "yomikata": "きそ",
+    "imi": "기초, 토대"
+  },
+  {
+    "tango": "基地",
+    "yomikata": "きち",
+    "imi": "기지"
+  },
+  {
+    "tango": "議長",
+    "yomikata": "ぎちょう",
+    "imi": "의장"
+  },
+  {
+    "tango": "きっかけ",
+    "yomikata": "",
+    "imi": "계기"
+  },
+  {
+    "tango": "喫茶",
+    "yomikata": "きっさ",
+    "imi": "차를 마심"
+  },
+  {
+    "tango": "起動",
+    "yomikata": "きどう",
+    "imi": "기동, 시동"
+  },
+  {
+    "tango": "機能",
+    "yomikata": "きのう",
+    "imi": "기능"
+  },
+  {
+    "tango": "基盤",
+    "yomikata": "きばん",
+    "imi": "기반"
+  },
+  {
+    "tango": "寄付",
+    "yomikata": "きふ",
+    "imi": "기부"
+  },
+  {
+    "tango": "規模",
+    "yomikata": "きぼ",
+    "imi": "규모"
+  },
+  {
+    "tango": "基本",
+    "yomikata": "きほん",
+    "imi": "기본"
+  },
+  {
+    "tango": "気味",
+    "yomikata": "きみ",
+    "imi": "기미, 기운, 낌새"
+  },
+  {
+    "tango": "義務",
+    "yomikata": "ぎむ",
+    "imi": "의무"
+  },
+  {
+    "tango": "客席",
+    "yomikata": "きゃくせき",
+    "imi": "객석"
+  },
+  {
+    "tango": "休講",
+    "yomikata": "きゅうこう",
+    "imi": "휴강"
+  },
+  {
+    "tango": "求婚",
+    "yomikata": "きゅうこん",
+    "imi": "구혼"
+  },
+  {
+    "tango": "吸収",
+    "yomikata": "きゅうしゅう",
+    "imi": "흡수"
+  },
+  {
+    "tango": "救助",
+    "yomikata": "きゅうじょ",
+    "imi": "구조"
+  },
+  {
+    "tango": "休息",
+    "yomikata": "きゅうそく",
+    "imi": "휴식"
+  },
+  {
+    "tango": "教員",
+    "yomikata": "きょういん",
+    "imi": "교원"
+  },
+  {
+    "tango": "境界",
+    "yomikata": "きょうかい",
+    "imi": "경계"
+  },
+  {
+    "tango": "競技",
+    "yomikata": "きょうぎ",
+    "imi": "경기"
+  },
+  {
+    "tango": "行儀",
+    "yomikata": "ぎょうぎ",
+    "imi": "예의, 질서, 예의범절"
+  },
+  {
+    "tango": "供給",
+    "yomikata": "きょうきゅう",
+    "imi": "공급"
+  },
+  {
+    "tango": "恐縮",
+    "yomikata": "きょうしゅく",
+    "imi": "황송함, 죄송함"
+  },
+  {
+    "tango": "協調",
+    "yomikata": "きょうちょう",
+    "imi": "협조"
+  },
+  {
+    "tango": "共同",
+    "yomikata": "きょうどう",
+    "imi": "공동"
+  },
+  {
+    "tango": "恐怖",
+    "yomikata": "きょうふ",
+    "imi": "공포"
+  },
+  {
+    "tango": "共用",
+    "yomikata": "きょうよう",
+    "imi": "공용"
+  },
+  {
+    "tango": "教養",
+    "yomikata": "きょうよう",
+    "imi": "교양"
+  },
+  {
+    "tango": "行列",
+    "yomikata": "ぎょうれつ",
+    "imi": "행렬"
+  },
+  {
+    "tango": "漁業",
+    "yomikata": "ぎょぎょう",
+    "imi": "어업"
+  },
+  {
+    "tango": "曲線",
+    "yomikata": "きょくせん",
+    "imi": "곡선"
+  },
+  {
+    "tango": "拒否",
+    "yomikata": "きょひ",
+    "imi": "거부"
+  },
+  {
+    "tango": "霧",
+    "yomikata": "きり",
+    "imi": "안개"
+  },
+  {
+    "tango": "規律",
+    "yomikata": "きりつ",
+    "imi": "규율"
+  },
+  {
+    "tango": "議論",
+    "yomikata": "ぎろん",
+    "imi": "의논, 논의"
+  },
+  {
+    "tango": "金額",
+    "yomikata": "きんがく",
+    "imi": "금액"
+  },
+  {
+    "tango": "金庫",
+    "yomikata": "きんこ",
+    "imi": "금고"
+  },
+  {
+    "tango": "金銭",
+    "yomikata": "きんせん",
+    "imi": "금전"
+  },
+  {
+    "tango": "金属",
+    "yomikata": "きんぞく",
+    "imi": "금속"
+  },
+  {
+    "tango": "近代",
+    "yomikata": "きんだい",
+    "imi": "근대"
+  },
+  {
+    "tango": "筋肉",
+    "yomikata": "きんにく",
+    "imi": "근육"
+  },
+  {
+    "tango": "金融",
+    "yomikata": "きんゆう",
+    "imi": "금융"
+  },
+  {
+    "tango": "偶数",
+    "yomikata": "ぐうすう",
+    "imi": "우수, 짝수"
+  },
+  {
+    "tango": "偶然",
+    "yomikata": "ぐうぜん",
+    "imi": "우연"
+  },
+  {
+    "tango": "空想",
+    "yomikata": "くうそう",
+    "imi": "공상"
+  },
+  {
+    "tango": "空中",
+    "yomikata": "くうちゅう",
+    "imi": "공중"
+  },
+  {
+    "tango": "苦情",
+    "yomikata": "くじょう",
+    "imi": "불평, 불만, 고충"
+  },
+  {
+    "tango": "苦心",
+    "yomikata": "くしん",
+    "imi": "고심"
+  },
+  {
+    "tango": "くず",
+    "yomikata": "",
+    "imi": "쓰레기"
+  },
+  {
+    "tango": "管",
+    "yomikata": "くだ",
+    "imi": "관, 대롱, 파이프"
+  },
+  {
+    "tango": "愚痴",
+    "yomikata": "ぐち",
+    "imi": "푸념, 넋두리"
+  },
+  {
+    "tango": "唇",
+    "yomikata": "くちびる",
+    "imi": "입술"
+  },
+  {
+    "tango": "口笛",
+    "yomikata": "くちぶえ",
+    "imi": "휘파람"
+  },
+  {
+    "tango": "苦痛",
+    "yomikata": "くつう",
+    "imi": "고통"
+  },
+  {
+    "tango": "苦難",
+    "yomikata": "くなん",
+    "imi": "고난"
+  },
+  {
+    "tango": "工夫",
+    "yomikata": "くふう",
+    "imi": "궁리, 연구"
+  },
+  {
+    "tango": "区分",
+    "yomikata": "くぶん",
+    "imi": "구분"
+  },
+  {
+    "tango": "組合",
+    "yomikata": "くみあい",
+    "imi": "조합, 노동조합"
+  },
+  {
+    "tango": "組み合わせ",
+    "yomikata": "くみあわせ",
+    "imi": "편성, 조합"
+  },
+  {
+    "tango": "暮れ",
+    "yomikata": "くれ",
+    "imi": "해질 무렵, 끝무렵, 연말"
+  },
+  {
+    "tango": "黒字",
+    "yomikata": "くろじ",
+    "imi": "흑자"
+  },
+  {
+    "tango": "軍隊",
+    "yomikata": "ぐんたい",
+    "imi": "군대"
+  },
+  {
+    "tango": "訓練",
+    "yomikata": "くんれん",
+    "imi": "훈련"
+  },
+  {
+    "tango": "敬意",
+    "yomikata": "けいい",
+    "imi": "경의"
+  },
+  {
+    "tango": "契機",
+    "yomikata": "けいき",
+    "imi": "계기"
+  },
+  {
+    "tango": "敬語",
+    "yomikata": "けいご",
+    "imi": "경어"
+  },
+  {
+    "tango": "傾向",
+    "yomikata": "けいこう",
+    "imi": "경향"
+  },
+  {
+    "tango": "蛍光灯",
+    "yomikata": "けいこうとう",
+    "imi": "형광등"
+  },
+  {
+    "tango": "警告",
+    "yomikata": "けいこく",
+    "imi": "경고"
+  },
+  {
+    "tango": "掲示",
+    "yomikata": "けいじ",
+    "imi": "게시"
+  },
+  {
+    "tango": "形式",
+    "yomikata": "けいしき",
+    "imi": "형식"
+  },
+  {
+    "tango": "継続",
+    "yomikata": "けいぞく",
+    "imi": "계속"
+  },
+  {
+    "tango": "経度",
+    "yomikata": "けいど",
+    "imi": "경도(지구의 세로 좌표)"
+  },
+  {
+    "tango": "芸能人",
+    "yomikata": "げいのうじん",
+    "imi": "연예인"
+  },
+  {
+    "tango": "競馬",
+    "yomikata": "けいば",
+    "imi": "경마"
+  },
+  {
+    "tango": "警備",
+    "yomikata": "けいび",
+    "imi": "경비"
+  },
+  {
+    "tango": "毛皮",
+    "yomikata": "けがわ",
+    "imi": "모피"
+  },
+  {
+    "tango": "激化",
+    "yomikata": "げきか",
+    "imi": "격화"
+  },
+  {
+    "tango": "劇場",
+    "yomikata": "げきじょう",
+    "imi": "극장"
+  },
+  {
+    "tango": "激增",
+    "yomikata": "げきぞう",
+    "imi": "격증, 급증"
+  },
+  {
+    "tango": "下車",
+    "yomikata": "げしゃ",
+    "imi": "하차, 차에서 내림"
+  },
+  {
+    "tango": "桁",
+    "yomikata": "けた",
+    "imi": "자릿수, 자리"
+  },
+  {
+    "tango": "下駄",
+    "yomikata": "げた",
+    "imi": "게다. 왜나막신"
+  },
+  {
+    "tango": "血圧",
+    "yomikata": "けつあつ",
+    "imi": "혈압"
+  },
+  {
+    "tango": "欠陥",
+    "yomikata": "けっかん",
+    "imi": "결함"
+  },
+  {
+    "tango": "月給",
+    "yomikata": "げっきゅう",
+    "imi": "월급"
+  },
+  {
+    "tango": "結婚式",
+    "yomikata": "けっこんしき",
+    "imi": "결혼식"
+  },
+  {
+    "tango": "傑作",
+    "yomikata": "けっさく",
+    "imi": "걸작"
+  },
+  {
+    "tango": "結末",
+    "yomikata": "けつまつ",
+    "imi": "결말"
+  },
+  {
+    "tango": "月末",
+    "yomikata": "げつまつ",
+    "imi": "월말"
+  },
+  {
+    "tango": "気配",
+    "yomikata": "けはい",
+    "imi": "기색"
+  },
+  {
+    "tango": "県",
+    "yomikata": "けん",
+    "imi": "현(일본의 행정구역)"
+  },
+  {
+    "tango": "見解",
+    "yomikata": "けんかい",
+    "imi": "견해"
+  },
+  {
+    "tango": "研究所",
+    "yomikata": "けんきゅうじょ",
+    "imi": "연구소"
+  },
+  {
+    "tango": "原稿",
+    "yomikata": "げんこう",
+    "imi": "원고"
+  },
+  {
+    "tango": "原産",
+    "yomikata": "げんさん",
+    "imi": "원산"
+  },
+  {
+    "tango": "原始",
+    "yomikata": "げんし",
+    "imi": "원시"
+  },
+  {
+    "tango": "研修",
+    "yomikata": "けんしゅう",
+    "imi": "연수"
+  },
+  {
+    "tango": "現象",
+    "yomikata": "げんしょう",
+    "imi": "현상"
+  },
+  {
+    "tango": "現状",
+    "yomikata": "げんじょう",
+    "imi": "현 상황"
+  },
+  {
+    "tango": "原子力",
+    "yomikata": "げんしりょく",
+    "imi": "원자력"
+  },
+  {
+    "tango": "謙遜",
+    "yomikata": "けんそん",
+    "imi": "겸손"
+  },
+  {
+    "tango": "建築",
+    "yomikata": "けんちく",
+    "imi": "건축"
+  },
+  {
+    "tango": "見当",
+    "yomikata": "けんとう",
+    "imi": "짐작, 예상"
+  },
+  {
+    "tango": "検討",
+    "yomikata": "けんとう",
+    "imi": "검토"
+  },
+  {
+    "tango": "現場",
+    "yomikata": "げんば",
+    "imi": "현장"
+  },
+  {
+    "tango": "憲法",
+    "yomikata": "けんぽう",
+    "imi": "헌법"
+  },
+  {
+    "tango": "懸命",
+    "yomikata": "けんめい",
+    "imi": "열심임, 필사적임"
+  },
+  {
+    "tango": "原油",
+    "yomikata": "げんゆ",
+    "imi": "원유"
+  },
+  {
+    "tango": "権利",
+    "yomikata": "けんり",
+    "imi": "권리"
+  },
+  {
+    "tango": "原理",
+    "yomikata": "げんり",
+    "imi": "원리"
+  },
+  {
+    "tango": "講演",
+    "yomikata": "こうえん",
+    "imi": "강연"
+  },
+  {
+    "tango": "後期",
+    "yomikata": "こうき",
+    "imi": "후기"
+  },
+  {
+    "tango": "好奇心",
+    "yomikata": "こうきしん",
+    "imi": "호기심"
+  },
+  {
+    "tango": "公共",
+    "yomikata": "こうきょう",
+    "imi": "공공"
+  },
+  {
+    "tango": "航空",
+    "yomikata": "こうくう",
+    "imi": "항공"
+  },
+  {
+    "tango": "光景",
+    "yomikata": "こうけい",
+    "imi": "광경"
+  },
+  {
+    "tango": "工芸",
+    "yomikata": "こうげい",
+    "imi": "공예"
+  },
+  {
+    "tango": "後継者",
+    "yomikata": "こうけいしゃ",
+    "imi": "후계자"
+  },
+  {
+    "tango": "攻擊",
+    "yomikata": "こうげき",
+    "imi": "공격"
+  },
+  {
+    "tango": "貢献",
+    "yomikata": "こうけん",
+    "imi": "공헌"
+  },
+  {
+    "tango": "交差",
+    "yomikata": "こうさ",
+    "imi": "교차"
+  },
+  {
+    "tango": "耕作",
+    "yomikata": "こうさく",
+    "imi": "경작"
+  },
+  {
+    "tango": "講師",
+    "yomikata": "こうし",
+    "imi": "강사"
+  },
+  {
+    "tango": "公式",
+    "yomikata": "こうしき",
+    "imi": "공식"
+  },
+  {
+    "tango": "口実",
+    "yomikata": "こうじつ",
+    "imi": "구실"
+  },
+  {
+    "tango": "後者",
+    "yomikata": "こうしゃ",
+    "imi": "후자, 뒤의 것, 뒤를 잇는 자"
+  },
+  {
+    "tango": "公衆",
+    "yomikata": "こうしゅう",
+    "imi": "공중, 대중"
+  },
+  {
+    "tango": "向上",
+    "yomikata": "こうじょう",
+    "imi": "향상"
+  },
+  {
+    "tango": "更新",
+    "yomikata": "こうしん",
+    "imi": "갱신"
+  },
+  {
+    "tango": "香水",
+    "yomikata": "こうすい",
+    "imi": "향수"
+  },
+  {
+    "tango": "厚生",
+    "yomikata": "こうせい",
+    "imi": "후생"
+  },
+  {
+    "tango": "功績",
+    "yomikata": "こうせき",
+    "imi": "공적, 공훈, 공로"
+  },
+  {
+    "tango": "光線",
+    "yomikata": "こうせん",
+    "imi": "광선"
+  },
+  {
+    "tango": "高層",
+    "yomikata": "こうそう",
+    "imi": "고층"
+  },
+  {
+    "tango": "構造",
+    "yomikata": "こうぞう",
+    "imi": "구조"
+  },
+  {
+    "tango": "高速",
+    "yomikata": "こうそく",
+    "imi": "고속"
+  },
+  {
+    "tango": "交替/交代",
+    "yomikata": "こうたい",
+    "imi": "교체, 교대"
+  },
+  {
+    "tango": "耕地",
+    "yomikata": "こうち",
+    "imi": "경지, 경작지, 농경지"
+  },
+  {
+    "tango": "肯定",
+    "yomikata": "こうてい",
+    "imi": "긍정"
+  },
+  {
+    "tango": "高度",
+    "yomikata": "こうど",
+    "imi": "고도"
+  },
+  {
+    "tango": "強盗",
+    "yomikata": "ごうとう",
+    "imi": "강도"
+  },
+  {
+    "tango": "公表",
+    "yomikata": "こうひょう",
+    "imi": "공표"
+  },
+  {
+    "tango": "鉱物",
+    "yomikata": "こうぶつ",
+    "imi": "광물"
+  },
+  {
+    "tango": "候補",
+    "yomikata": "こうほ",
+    "imi": "후보"
+  },
+  {
+    "tango": "公務",
+    "yomikata": "こうむ",
+    "imi": "공무"
+  },
+  {
+    "tango": "項目",
+    "yomikata": "こうもく",
+    "imi": "항목"
+  },
+  {
+    "tango": "合理",
+    "yomikata": "ごうり",
+    "imi": "합리"
+  },
+  {
+    "tango": "交流",
+    "yomikata": "こうりゅう",
+    "imi": "교류"
+  },
+  {
+    "tango": "考慮",
+    "yomikata": "こうりょ",
+    "imi": "고려"
+  },
+  {
+    "tango": "高齢化",
+    "yomikata": "こうれいか",
+    "imi": "고령화"
+  },
+  {
+    "tango": "氷枕",
+    "yomikata": "こおりまくら",
+    "imi": "얼음 주머니 베개"
+  },
+  {
+    "tango": "小型",
+    "yomikata": "こがた",
+    "imi": "소형"
+  },
+  {
+    "tango": "国王",
+    "yomikata": "こくおう",
+    "imi": "국왕, 임금"
+  },
+  {
+    "tango": "国籍",
+    "yomikata": "こくせき",
+    "imi": "국적"
+  },
+  {
+    "tango": "克服",
+    "yomikata": "こくふく",
+    "imi": "극복"
+  },
+  {
+    "tango": "穀物",
+    "yomikata": "こくもつ",
+    "imi": "곡물"
+  },
+  {
+    "tango": "小言",
+    "yomikata": "こごと",
+    "imi": "잔소리, 불평"
+  },
+  {
+    "tango": "心当たり",
+    "yomikata": "こころあたり",
+    "imi": "마음에 짚이는 데, 짐작가는 데"
+  },
+  {
+    "tango": "誇示",
+    "yomikata": "こじ",
+    "imi": "과시"
+  },
+  {
+    "tango": "固体",
+    "yomikata": "こたい",
+    "imi": "고체"
+  },
+  {
+    "tango": "国家",
+    "yomikata": "こっか",
+    "imi": "국가"
+  },
+  {
+    "tango": "国旗",
+    "yomikata": "こっき",
+    "imi": "국기"
+  },
+  {
+    "tango": "国境",
+    "yomikata": "こっきょう",
+    "imi": "국경"
+  },
+  {
+    "tango": "骨折",
+    "yomikata": "こっせつ",
+    "imi": "골절"
+  },
+  {
+    "tango": "古典",
+    "yomikata": "こてん",
+    "imi": "고전"
+  },
+  {
+    "tango": "言葉づかい",
+    "yomikata": "ことばづかい",
+    "imi": "말씨, 말투"
+  },
+  {
+    "tango": "粉",
+    "yomikata": "こな",
+    "imi": "가루"
+  },
+  {
+    "tango": "小麦",
+    "yomikata": "こむぎ",
+    "imi": "밀"
+  },
+  {
+    "tango": "小屋",
+    "yomikata": "こや",
+    "imi": "오두막"
+  },
+  {
+    "tango": "娯楽",
+    "yomikata": "ごらく",
+    "imi": "오락"
+  },
+  {
+    "tango": "ご覧",
+    "yomikata": "こらん",
+    "imi": "보심(존경어)"
+  },
+  {
+    "tango": "混合",
+    "yomikata": "こんごう",
+    "imi": "혼합"
+  },
+  {
+    "tango": "献立",
+    "yomikata": "こんだて",
+    "imi": "식단, 메뉴, 준비"
+  },
+  {
+    "tango": "困難",
+    "yomikata": "こんなん",
+    "imi": "곤란"
+  },
+  {
+    "tango": "婚約",
+    "yomikata": "こんやく",
+    "imi": "약혼"
+  },
+  {
+    "tango": "差異",
+    "yomikata": "さい",
+    "imi": "차이"
+  },
+  {
+    "tango": "財産",
+    "yomikata": "ざいさん",
+    "imi": "재산"
+  },
+  {
+    "tango": "最終",
+    "yomikata": "さいしゅう",
+    "imi": "최종"
+  },
+  {
+    "tango": "最新",
+    "yomikata": "さいしん",
+    "imi": "최신"
+  },
+  {
+    "tango": "催促",
+    "yomikata": "さいそく",
+    "imi": "재촉"
+  },
+  {
+    "tango": "最大",
+    "yomikata": "さいだい",
+    "imi": "최대"
+  },
+  {
+    "tango": "最中",
+    "yomikata": "さいちゅう",
+    "imi": "한창인 때"
+  },
+  {
+    "tango": "災難",
+    "yomikata": "さいなん",
+    "imi": "재난"
+  },
+  {
+    "tango": "裁判",
+    "yomikata": "さいばん",
+    "imi": "재판"
+  },
+  {
+    "tango": "材木",
+    "yomikata": "ざいもく",
+    "imi": "재목"
+  },
+  {
+    "tango": "境",
+    "yomikata": "さかい",
+    "imi": "경계, 갈림길, 기로"
+  },
+  {
+    "tango": "逆さ",
+    "yomikata": "さかさ",
+    "imi": "반대, 거꾸로 됨"
+  },
+  {
+    "tango": "逆樣",
+    "yomikata": "さかさま",
+    "imi": "거꾸로 됨, 반대임"
+  },
+  {
+    "tango": "酒場",
+    "yomikata": "さかば",
+    "imi": "술집, 선술집"
+  },
+  {
+    "tango": "先々",
+    "yomikata": "さきざき",
+    "imi": "① 먼 장래   ② 가는 곳마다. 도처"
+  },
+  {
+    "tango": "先程",
+    "yomikata": "さきほど",
+    "imi": "아까, 조금 전"
+  },
+  {
+    "tango": "索引",
+    "yomikata": "さくいん",
+    "imi": "색인, 인덱스"
+  },
+  {
+    "tango": "削除",
+    "yomikata": "さくじょ",
+    "imi": "삭제"
+  },
+  {
+    "tango": "作成",
+    "yomikata": "さくせい",
+    "imi": "작성"
+  },
+  {
+    "tango": "作物",
+    "yomikata": "さくもつ",
+    "imi": "작물, 농작물"
+  },
+  {
+    "tango": "差し支え",
+    "yomikata": "さしつかえ",
+    "imi": "지장, 장애"
+  },
+  {
+    "tango": "刺身",
+    "yomikata": "さしみ",
+    "imi": "생선회"
+  },
+  {
+    "tango": "札",
+    "yomikata": "さつ",
+    "imi": "지폐"
+  },
+  {
+    "tango": "撮影",
+    "yomikata": "さつえい",
+    "imi": "촬영"
+  },
+  {
+    "tango": "雑音",
+    "yomikata": "ざつおん",
+    "imi": "잡음, 소음"
+  },
+  {
+    "tango": "雑談",
+    "yomikata": "ざつだん",
+    "imi": "잡담"
+  },
+  {
+    "tango": "茶道",
+    "yomikata": "さどう",
+    "imi": "다도"
+  },
+  {
+    "tango": "作動",
+    "yomikata": "さどう",
+    "imi": "작동"
+  },
+  {
+    "tango": "砂漠",
+    "yomikata": "さばく",
+    "imi": "사막"
+  },
+  {
+    "tango": "錆",
+    "yomikata": "さび",
+    "imi": "(금속) 녹"
+  },
+  {
+    "tango": "差別",
+    "yomikata": "さべつ",
+    "imi": "차별"
+  },
+  {
+    "tango": "作法",
+    "yomikata": "さほう",
+    "imi": "예의범절, 규범"
+  },
+  {
+    "tango": "左右",
+    "yomikata": "さゆう",
+    "imi": "좌우"
+  },
+  {
+    "tango": "参考",
+    "yomikata": "さんこう",
+    "imi": "참고"
+  },
+  {
+    "tango": "産地",
+    "yomikata": "さんち",
+    "imi": "산지"
+  },
+  {
+    "tango": "幸せ",
+    "yomikata": "しあわせ",
+    "imi": "행복"
+  },
+  {
+    "tango": "鹿",
+    "yomikata": "しか",
+    "imi": "사슴"
+  },
+  {
+    "tango": "敷地",
+    "yomikata": "しきち",
+    "imi": "(건축)부지, 터"
+  },
+  {
+    "tango": "時給",
+    "yomikata": "じきゅう",
+    "imi": "시급, 시간당 급료"
+  },
+  {
+    "tango": "刺激",
+    "yomikata": "しげき",
+    "imi": "자극"
+  },
+  {
+    "tango": "資源",
+    "yomikata": "しげん",
+    "imi": "자원"
+  },
+  {
+    "tango": "思考",
+    "yomikata": "しこう",
+    "imi": "사고, 생각"
+  },
+  {
+    "tango": "持参",
+    "yomikata": "じさん",
+    "imi": "지참, 지니고 옴"
+  },
+  {
+    "tango": "支持",
+    "yomikata": "しじ",
+    "imi": "지지"
+  },
+  {
+    "tango": "事実",
+    "yomikata": "じじつ",
+    "imi": "사실"
+  },
+  {
+    "tango": "磁石",
+    "yomikata": "じしゃく",
+    "imi": "자석"
+  },
+  {
+    "tango": "支出",
+    "yomikata": "ししゅつ",
+    "imi": "지출"
+  },
+  {
+    "tango": "自身",
+    "yomikata": "じしん",
+    "imi": "자신"
+  },
+  {
+    "tango": "姿勢",
+    "yomikata": "しせい",
+    "imi": "자세"
+  },
+  {
+    "tango": "思想",
+    "yomikata": "しそう",
+    "imi": "사상"
+  },
+  {
+    "tango": "子孫",
+    "yomikata": "しそん",
+    "imi": "자손"
+  },
+  {
+    "tango": "自体",
+    "yomikata": "じたい",
+    "imi": "자체"
+  },
+  {
+    "tango": "辞退",
+    "yomikata": "じたい",
+    "imi": "사퇴"
+  },
+  {
+    "tango": "自宅",
+    "yomikata": "じたく",
+    "imi": "자택"
+  },
+  {
+    "tango": "市長",
+    "yomikata": "しちょう",
+    "imi": "시장(지방 자치 단체인 시의 책임자)"
+  },
+  {
+    "tango": "視聴者",
+    "yomikata": "しちょうしゃ",
+    "imi": "시청자"
+  },
+  {
+    "tango": "質",
+    "yomikata": "しつ",
+    "imi": "질, 품질"
+  },
+  {
+    "tango": "実感",
+    "yomikata": "じっかん",
+    "imi": "실감"
+  },
+  {
+    "tango": "実験",
+    "yomikata": "じっけん",
+    "imi": "실험"
+  },
+  {
+    "tango": "実際",
+    "yomikata": "じっさい",
+    "imi": "실제"
+  },
+  {
+    "tango": "実施",
+    "yomikata": "じっし",
+    "imi": "실시"
+  },
+  {
+    "tango": "実習",
+    "yomikata": "じっしゅう",
+    "imi": "실습"
+  },
+  {
+    "tango": "実績",
+    "yomikata": "じっせき",
+    "imi": "실적"
+  },
+  {
+    "tango": "執筆",
+    "yomikata": "しっぴつ",
+    "imi": "집필"
+  },
+  {
+    "tango": "実物",
+    "yomikata": "じつぶつ",
+    "imi": "실물"
+  },
+  {
+    "tango": "尻尾",
+    "yomikata": "しっぽ",
+    "imi": "꼬리"
+  },
+  {
+    "tango": "失望",
+    "yomikata": "しつぼう",
+    "imi": "실망"
+  },
+  {
+    "tango": "実務",
+    "yomikata": "じつむ",
+    "imi": "실무"
+  },
+  {
+    "tango": "実用",
+    "yomikata": "じつよう",
+    "imi": "실용"
+  },
+  {
+    "tango": "実例",
+    "yomikata": "じつれい",
+    "imi": "실례"
+  },
+  {
+    "tango": "指定",
+    "yomikata": "してい",
+    "imi": "지정"
+  },
+  {
+    "tango": "指摘",
+    "yomikata": "してき",
+    "imi": "지적"
+  },
+  {
+    "tango": "児童",
+    "yomikata": "じどう",
+    "imi": "아동"
+  },
+  {
+    "tango": "品切れ",
+    "yomikata": "しなぎれ",
+    "imi": "품절"
+  },
+  {
+    "tango": "支配",
+    "yomikata": "しはい",
+    "imi": "지배"
+  },
+  {
+    "tango": "芝居",
+    "yomikata": "しばい",
+    "imi": "연극"
+  },
+  {
+    "tango": "芝生",
+    "yomikata": "しばふ",
+    "imi": "잔디"
+  },
+  {
+    "tango": "地盤",
+    "yomikata": "じばん",
+    "imi": "지반"
+  },
+  {
+    "tango": "紙幣",
+    "yomikata": "しへい",
+    "imi": "지폐"
+  },
+  {
+    "tango": "資本",
+    "yomikata": "しほん",
+    "imi": "자본"
+  },
+  {
+    "tango": "地元",
+    "yomikata": "じもと",
+    "imi": "고장, 연고지"
+  },
+  {
+    "tango": "視野",
+    "yomikata": "しゃ",
+    "imi": "시야"
+  },
+  {
+    "tango": "社員",
+    "yomikata": "しゃいん",
+    "imi": "사원"
+  },
+  {
+    "tango": "弱点",
+    "yomikata": "じゃくてん",
+    "imi": "약점"
+  },
+  {
+    "tango": "車掌",
+    "yomikata": "しゃしょう",
+    "imi": "차장, 승무원"
+  },
+  {
+    "tango": "借金",
+    "yomikata": "しゃっきん",
+    "imi": "빚, 차입금"
+  },
+  {
+    "tango": "しゃっくり",
+    "yomikata": "",
+    "imi": "딸꾹질"
+  },
+  {
+    "tango": "じゃんけん",
+    "yomikata": "",
+    "imi": "가위바위보"
+  },
+  {
+    "tango": "銃",
+    "yomikata": "じゅう",
+    "imi": "총"
+  },
+  {
+    "tango": "集会",
+    "yomikata": "しゅうかい",
+    "imi": "집회"
+  },
+  {
+    "tango": "収穫",
+    "yomikata": "しゅうかく",
+    "imi": "수확"
+  },
+  {
+    "tango": "宗教",
+    "yomikata": "しゅうきょう",
+    "imi": "종교"
+  },
+  {
+    "tango": "集金",
+    "yomikata": "しゅうきん",
+    "imi": "수금"
+  },
+  {
+    "tango": "集合",
+    "yomikata": "しゅうごう",
+    "imi": "집합"
+  },
+  {
+    "tango": "修士",
+    "yomikata": "しゅうし",
+    "imi": "석사"
+  },
+  {
+    "tango": "修正",
+    "yomikata": "しゅうせい",
+    "imi": "수정"
+  },
+  {
+    "tango": "渋滞",
+    "yomikata": "じゅうたい",
+    "imi": "정체(일이나 교통 흐름이 더딤)"
+  },
+  {
+    "tango": "集団",
+    "yomikata": "しゅうだん",
+    "imi": "집단"
+  },
+  {
+    "tango": "執着",
+    "yomikata": "しゅうちゃく",
+    "imi": "집착"
+  },
+  {
+    "tango": "終電",
+    "yomikata": "しゅうでん",
+    "imi": "막차, 마지막 전철"
+  },
+  {
+    "tango": "重点",
+    "yomikata": "じゅうてん",
+    "imi": "중점, 포인트"
+  },
+  {
+    "tango": "充電",
+    "yomikata": "じゅうでん",
+    "imi": "충전"
+  },
+  {
+    "tango": "就任",
+    "yomikata": "しゅうにん",
+    "imi": "취임"
+  },
+  {
+    "tango": "収納",
+    "yomikata": "しゅうのう",
+    "imi": "수납(현금이나 물품)"
+  },
+  {
+    "tango": "重役",
+    "yomikata": "じゅうやく",
+    "imi": "중역, (회사의) 임원"
+  },
+  {
+    "tango": "終了",
+    "yomikata": "しゅうりょう",
+    "imi": "종료"
+  },
+  {
+    "tango": "重量",
+    "yomikata": "じゅうりょう",
+    "imi": "중량, 무게"
+  },
+  {
+    "tango": "重力",
+    "yomikata": "じゅうりょく",
+    "imi": "중력"
+  },
+  {
+    "tango": "主義",
+    "yomikata": "しゅぎ",
+    "imi": "주의"
+  },
+  {
+    "tango": "取材",
+    "yomikata": "しゅざい",
+    "imi": "취재"
+  },
+  {
+    "tango": "首相",
+    "yomikata": "しゅしょう",
+    "imi": "수상"
+  },
+  {
+    "tango": "主人公",
+    "yomikata": "しゅじんこう",
+    "imi": "주인공"
+  },
+  {
+    "tango": "出荷",
+    "yomikata": "しゅっか",
+    "imi": "출하"
+  },
+  {
+    "tango": "出世",
+    "yomikata": "しゅっせ",
+    "imi": "출세"
+  },
+  {
+    "tango": "主役",
+    "yomikata": "しゅやく",
+    "imi": "주역"
+  },
+  {
+    "tango": "需要",
+    "yomikata": "じゅよう",
+    "imi": "수요, 요구"
+  },
+  {
+    "tango": "順",
+    "yomikata": "じゅん",
+    "imi": "순, 순서"
+  },
+  {
+    "tango": "瞬間",
+    "yomikata": "しゅんかん",
+    "imi": "순간"
+  },
+  {
+    "tango": "順序",
+    "yomikata": "じゅんじょ",
+    "imi": "순서"
+  },
+  {
+    "tango": "使用",
+    "yomikata": "しょう",
+    "imi": "사용"
+  },
+  {
+    "tango": "消火",
+    "yomikata": "しょうか",
+    "imi": "소화"
+  },
+  {
+    "tango": "障害",
+    "yomikata": "しょうがい",
+    "imi": "장해, 방해, 장애"
+  },
+  {
+    "tango": "奨学金",
+    "yomikata": "しょうがくきん",
+    "imi": "장학금"
+  },
+  {
+    "tango": "小学生",
+    "yomikata": "しょうがくせい",
+    "imi": "초등학생"
+  },
+  {
+    "tango": "蒸気",
+    "yomikata": "じょうき",
+    "imi": "증기, 김"
+  },
+  {
+    "tango": "定規",
+    "yomikata": "じょうぎ",
+    "imi": "자, 기준"
+  },
+  {
+    "tango": "状況",
+    "yomikata": "じょうきょう",
+    "imi": "상황"
+  },
+  {
+    "tango": "賞金",
+    "yomikata": "しょうきん",
+    "imi": "상금"
+  },
+  {
+    "tango": "少子化",
+    "yomikata": "しょうしか",
+    "imi": "출산율 저하"
+  },
+  {
+    "tango": "商社",
+    "yomikata": "しょうしゃ",
+    "imi": "상사, 무역상사"
+  },
+  {
+    "tango": "上昇",
+    "yomikata": "じょうしょう",
+    "imi": "상승"
+  },
+  {
+    "tango": "小数",
+    "yomikata": "しょうすう",
+    "imi": "소수(1보다 작은 수)"
+  },
+  {
+    "tango": "少数",
+    "yomikata": "しょうすう",
+    "imi": "소수(적은 숫자)"
+  },
+  {
+    "tango": "情勢",
+    "yomikata": "じょうせい",
+    "imi": "정세"
+  },
+  {
+    "tango": "状態",
+    "yomikata": "じょうたい",
+    "imi": "상태"
+  },
+  {
+    "tango": "上達",
+    "yomikata": "じょうたつ",
+    "imi": "능숙해짐"
+  },
+  {
+    "tango": "承知",
+    "yomikata": "しょうち",
+    "imi": "① 이해   ② 승낙"
+  },
+  {
+    "tango": "象徴",
+    "yomikata": "しょうちょう",
+    "imi": "상징"
+  },
+  {
+    "tango": "焦点",
+    "yomikata": "しょうてん",
+    "imi": "초점"
+  },
+  {
+    "tango": "消毒",
+    "yomikata": "しょうどく",
+    "imi": "소독"
+  },
+  {
+    "tango": "衝突",
+    "yomikata": "しょうとつ",
+    "imi": "충돌"
+  },
+  {
+    "tango": "承認",
+    "yomikata": "しょうにん",
+    "imi": "승인"
+  },
+  {
+    "tango": "少人数",
+    "yomikata": "しょうにんずう",
+    "imi": "소인원, 적은 인원"
+  },
+  {
+    "tango": "勝敗",
+    "yomikata": "しょうはい",
+    "imi": "승패"
+  },
+  {
+    "tango": "蒸発",
+    "yomikata": "じょうはつ",
+    "imi": "증발"
+  },
+  {
+    "tango": "勝負",
+    "yomikata": "しょうぶ",
+    "imi": "승부"
+  },
+  {
+    "tango": "正味",
+    "yomikata": "しょうみ",
+    "imi": "알맹이, 내용물"
+  },
+  {
+    "tango": "賞味期限",
+    "yomikata": "しょうみきげん",
+    "imi": "유통 기한"
+  },
+  {
+    "tango": "消耗",
+    "yomikata": "しょうもう",
+    "imi": "소모"
+  },
+  {
+    "tango": "省略",
+    "yomikata": "しょうりゃく",
+    "imi": "생략"
+  },
+  {
+    "tango": "女王",
+    "yomikata": "じょおう",
+    "imi": "여왕"
+  },
+  {
+    "tango": "食塩",
+    "yomikata": "しょくえん",
+    "imi": "식염, 식용 소금"
+  },
+  {
+    "tango": "食卓",
+    "yomikata": "しょくたく",
+    "imi": "식탁"
+  },
+  {
+    "tango": "職人",
+    "yomikata": "しょくにん",
+    "imi": "장인, 숙련 기술자"
+  },
+  {
+    "tango": "職場",
+    "yomikata": "しょくば",
+    "imi": "직장"
+  },
+  {
+    "tango": "食物",
+    "yomikata": "しょくもつ",
+    "imi": "음식, 음식물"
+  },
+  {
+    "tango": "助言",
+    "yomikata": "じょげん",
+    "imi": "조언"
+  },
+  {
+    "tango": "書籍",
+    "yomikata": "しょせき",
+    "imi": "서적"
+  },
+  {
+    "tango": "初対面",
+    "yomikata": "しょたいめん",
+    "imi": "첫 대면"
+  },
+  {
+    "tango": "署名",
+    "yomikata": "しょめい",
+    "imi": "서명"
+  },
+  {
+    "tango": "書物",
+    "yomikata": "しょもつ",
+    "imi": "서적"
+  },
+  {
+    "tango": "所有",
+    "yomikata": "しょゆう",
+    "imi": "소유"
+  },
+  {
+    "tango": "処理",
+    "yomikata": "しょり",
+    "imi": "처리"
+  },
+  {
+    "tango": "白髪",
+    "yomikata": "しらが",
+    "imi": "흰머리, 백발"
+  },
+  {
+    "tango": "城",
+    "yomikata": "しろ",
+    "imi": "성, 성곽"
+  },
+  {
+    "tango": "素人",
+    "yomikata": "しろうと",
+    "imi": "초보자, 풋내기"
+  },
+  {
+    "tango": "しわ",
+    "yomikata": "",
+    "imi": "주름"
+  },
+  {
+    "tango": "神経",
+    "yomikata": "しんけい",
+    "imi": "신경"
+  },
+  {
+    "tango": "人件費",
+    "yomikata": "じんけんひ",
+    "imi": "인건비"
+  },
+  {
+    "tango": "信仰",
+    "yomikata": "しんこう",
+    "imi": "신앙"
+  },
+  {
+    "tango": "進行",
+    "yomikata": "しんこう",
+    "imi": "진행"
+  },
+  {
+    "tango": "申告",
+    "yomikata": "しんこく",
+    "imi": "신고"
+  },
+  {
+    "tango": "人事",
+    "yomikata": "じんじ",
+    "imi": "인사"
+  },
+  {
+    "tango": "心身",
+    "yomikata": "しんしん",
+    "imi": "심신, 몸과 마음"
+  },
+  {
+    "tango": "新人",
+    "yomikata": "しんじん",
+    "imi": "신인"
+  },
+  {
+    "tango": "心臓",
+    "yomikata": "しんぞう",
+    "imi": "심장"
+  },
+  {
+    "tango": "新卒",
+    "yomikata": "しんそつ",
+    "imi": "신규 졸업자"
+  },
+  {
+    "tango": "身体",
+    "yomikata": "しんたい",
+    "imi": "신체"
+  },
+  {
+    "tango": "診断",
+    "yomikata": "しんだん",
+    "imi": "진단"
+  },
+  {
+    "tango": "侵入",
+    "yomikata": "しんにゅう",
+    "imi": "침입"
+  },
+  {
+    "tango": "審判",
+    "yomikata": "しんぱん",
+    "imi": "심판"
+  },
+  {
+    "tango": "人物",
+    "yomikata": "じんぶつ",
+    "imi": "인물"
+  },
+  {
+    "tango": "人命",
+    "yomikata": "じんめい",
+    "imi": "인명, 사람의 생명"
+  },
+  {
+    "tango": "信用",
+    "yomikata": "しんよう",
+    "imi": "신용"
+  },
+  {
+    "tango": "信頼",
+    "yomikata": "しんらい",
+    "imi": "신뢰"
+  },
+  {
+    "tango": "森林",
+    "yomikata": "しんりん",
+    "imi": "삼림"
+  },
+  {
+    "tango": "人類",
+    "yomikata": "じんるい",
+    "imi": "인류"
+  },
+  {
+    "tango": "図",
+    "yomikata": "ず",
+    "imi": "그림"
+  },
+  {
+    "tango": "吸い殻",
+    "yomikata": "すいがら",
+    "imi": "담배꽁초"
+  },
+  {
+    "tango": "水産",
+    "yomikata": "すいさん",
+    "imi": "수산"
+  },
+  {
+    "tango": "水準",
+    "yomikata": "すいじゅん",
+    "imi": "수준"
+  },
+  {
+    "tango": "水蒸気",
+    "yomikata": "すいじょうき",
+    "imi": "수증기, 김"
+  },
+  {
+    "tango": "推薦",
+    "yomikata": "すいせん",
+    "imi": "추천"
+  },
+  {
+    "tango": "垂直",
+    "yomikata": "すいちょく",
+    "imi": "수직"
+  },
+  {
+    "tango": "推定",
+    "yomikata": "すいてい",
+    "imi": "추정, 추측"
+  },
+  {
+    "tango": "水筒",
+    "yomikata": "すいとう",
+    "imi": "물통, 수통"
+  },
+  {
+    "tango": "水分",
+    "yomikata": "すいぶん",
+    "imi": "수분, 물기"
+  },
+  {
+    "tango": "水平",
+    "yomikata": "すいへい",
+    "imi": "수평"
+  },
+  {
+    "tango": "水平線",
+    "yomikata": "すいへいせん",
+    "imi": "수평선"
+  },
+  {
+    "tango": "水面",
+    "yomikata": "すいめん",
+    "imi": "수면"
+  },
+  {
+    "tango": "数字",
+    "yomikata": "すうじ",
+    "imi": "숫자"
+  },
+  {
+    "tango": "末",
+    "yomikata": "すえ",
+    "imi": "끝, 말"
+  },
+  {
+    "tango": "姿",
+    "yomikata": "すがた",
+    "imi": "모습, 자태"
+  },
+  {
+    "tango": "図鑑",
+    "yomikata": "ずかん",
+    "imi": "도감"
+  },
+  {
+    "tango": "隙間",
+    "yomikata": "すきま",
+    "imi": "틈새"
+  },
+  {
+    "tango": "図形",
+    "yomikata": "ずけい",
+    "imi": "도형"
+  },
+  {
+    "tango": "筋",
+    "yomikata": "すじ",
+    "imi": "① 근육   ② 줄기   ③ 줄거리"
+  },
+  {
+    "tango": "頭痛",
+    "yomikata": "ずつう",
+    "imi": "두통"
+  },
+  {
+    "tango": "頭脳",
+    "yomikata": "ずのう",
+    "imi": "두뇌"
+  },
+  {
+    "tango": "図表",
+    "yomikata": "ずひょう",
+    "imi": "도표"
+  },
+  {
+    "tango": "炭",
+    "yomikata": "すみ",
+    "imi": "숯"
+  },
+  {
+    "tango": "寸法",
+    "yomikata": "すんぽう",
+    "imi": "치수, 길이, 척도"
+  },
+  {
+    "tango": "世紀",
+    "yomikata": "せいき",
+    "imi": "세기"
+  },
+  {
+    "tango": "請求",
+    "yomikata": "せいきゅう",
+    "imi": "청구"
+  },
+  {
+    "tango": "制限",
+    "yomikata": "せいげん",
+    "imi": "제한"
+  },
+  {
+    "tango": "製作",
+    "yomikata": "せいさく",
+    "imi": "제작"
+  },
+  {
+    "tango": "精神",
+    "yomikata": "せいしん",
+    "imi": "정신"
+  },
+  {
+    "tango": "整数",
+    "yomikata": "せいすう",
+    "imi": "정수(수학)"
+  },
+  {
+    "tango": "製造",
+    "yomikata": "せいぞう",
+    "imi": "제조"
+  },
+  {
+    "tango": "生存",
+    "yomikata": "せいぞん",
+    "imi": "생존"
+  },
+  {
+    "tango": "制度",
+    "yomikata": "せいど",
+    "imi": "제도"
+  },
+  {
+    "tango": "性能",
+    "yomikata": "せいのう",
+    "imi": "성능"
+  },
+  {
+    "tango": "整備",
+    "yomikata": "せいび",
+    "imi": "정비"
+  },
+  {
+    "tango": "政府",
+    "yomikata": "せいふ",
+    "imi": "정부"
+  },
+  {
+    "tango": "生物",
+    "yomikata": "せいぶつ",
+    "imi": "생물"
+  },
+  {
+    "tango": "成分",
+    "yomikata": "せいぶん",
+    "imi": "성분"
+  },
+  {
+    "tango": "性別",
+    "yomikata": "せいべつ",
+    "imi": "성별"
+  },
+  {
+    "tango": "正方形",
+    "yomikata": "せいほうけい",
+    "imi": "정방형, 정사각형"
+  },
+  {
+    "tango": "生命",
+    "yomikata": "せいめい",
+    "imi": "생명"
+  },
+  {
+    "tango": "成立",
+    "yomikata": "せいりつ",
+    "imi": "성립"
+  },
+  {
+    "tango": "西暦",
+    "yomikata": "せいれき",
+    "imi": "서기"
+  },
+  {
+    "tango": "石炭",
+    "yomikata": "せきたん",
+    "imi": "석탄"
+  },
+  {
+    "tango": "世間",
+    "yomikata": "せけん",
+    "imi": "세상"
+  },
+  {
+    "tango": "接近",
+    "yomikata": "せっきん",
+    "imi": "접근"
+  },
+  {
+    "tango": "設計",
+    "yomikata": "せっけい",
+    "imi": "설계"
+  },
+  {
+    "tango": "絶好調",
+    "yomikata": "ぜっこうちょう",
+    "imi": "절정, 최상의 상태"
+  },
+  {
+    "tango": "接続",
+    "yomikata": "せつぞく",
+    "imi": "접속"
+  },
+  {
+    "tango": "接待",
+    "yomikata": "せったい",
+    "imi": "접대"
+  },
+  {
+    "tango": "説得",
+    "yomikata": "せっとく",
+    "imi": "설득"
+  },
+  {
+    "tango": "設備",
+    "yomikata": "せつび",
+    "imi": "설비"
+  },
+  {
+    "tango": "台詞",
+    "yomikata": "せりふ",
+    "imi": "대사"
+  },
+  {
+    "tango": "栓",
+    "yomikata": "せん",
+    "imi": "마개, 병마개, (수도) 꼭지"
+  },
+  {
+    "tango": "前期",
+    "yomikata": "ぜんき",
+    "imi": "전기"
+  },
+  {
+    "tango": "戦後",
+    "yomikata": "せんご",
+    "imi": "전후, 전쟁 후"
+  },
+  {
+    "tango": "前後",
+    "yomikata": "ぜんご",
+    "imi": "전후, 앞뒤"
+  },
+  {
+    "tango": "前者",
+    "yomikata": "ぜんしゃ",
+    "imi": "전자, 앞의 것"
+  },
+  {
+    "tango": "前進",
+    "yomikata": "ぜんしん",
+    "imi": "전진"
+  },
+  {
+    "tango": "先祖",
+    "yomikata": "せんぞ",
+    "imi": "선조"
+  },
+  {
+    "tango": "先端",
+    "yomikata": "せんたん",
+    "imi": "첨단"
+  },
+  {
+    "tango": "選定",
+    "yomikata": "せんてい",
+    "imi": "선정"
+  },
+  {
+    "tango": "先頭",
+    "yomikata": "せんとう",
+    "imi": "선두"
+  },
+  {
+    "tango": "専念",
+    "yomikata": "せんねん",
+    "imi": "전념"
+  },
+  {
+    "tango": "全般",
+    "yomikata": "ぜんぱん",
+    "imi": "전반, 전체"
+  },
+  {
+    "tango": "全力",
+    "yomikata": "ぜんりょく",
+    "imi": "전력"
+  },
+  {
+    "tango": "象",
+    "yomikata": "ぞう",
+    "imi": "코끼리"
+  },
+  {
+    "tango": "相違",
+    "yomikata": "そうい",
+    "imi": "상이, 차이, 다름"
+  },
+  {
+    "tango": "增加",
+    "yomikata": "ぞうか",
+    "imi": "증가"
+  },
+  {
+    "tango": "增減",
+    "yomikata": "ぞうげん",
+    "imi": "증감"
+  },
+  {
+    "tango": "倉庫",
+    "yomikata": "そうこ",
+    "imi": "창고"
+  },
+  {
+    "tango": "相互",
+    "yomikata": "そうご",
+    "imi": "상호"
+  },
+  {
+    "tango": "操作",
+    "yomikata": "そうさ",
+    "imi": "조작"
+  },
+  {
+    "tango": "捜査",
+    "yomikata": "そうさ",
+    "imi": "수사"
+  },
+  {
+    "tango": "創作",
+    "yomikata": "そうさく",
+    "imi": "창작"
+  },
+  {
+    "tango": "葬式",
+    "yomikata": "そうしき",
+    "imi": "장례식"
+  },
+  {
+    "tango": "造船",
+    "yomikata": "ぞうせん",
+    "imi": "조선, 배를 만듦"
+  },
+  {
+    "tango": "増大",
+    "yomikata": "ぞうだい",
+    "imi": "증대"
+  },
+  {
+    "tango": "装置",
+    "yomikata": "そうち",
+    "imi": "장치"
+  },
+  {
+    "tango": "想定",
+    "yomikata": "そうてい",
+    "imi": "상정, 가정, 전제"
+  },
+  {
+    "tango": "続出",
+    "yomikata": "ぞくしゅつ",
+    "imi": "속출"
+  },
+  {
+    "tango": "速力",
+    "yomikata": "そくりょく",
+    "imi": "속력"
+  },
+  {
+    "tango": "組織",
+    "yomikata": "そしき",
+    "imi": "조직"
+  },
+  {
+    "tango": "素質",
+    "yomikata": "そしつ",
+    "imi": "소질"
+  },
+  {
+    "tango": "祖先",
+    "yomikata": "そせん",
+    "imi": "선조, 조상"
+  },
+  {
+    "tango": "その後",
+    "yomikata": "そのご",
+    "imi": "그후"
+  },
+  {
+    "tango": "そのほか",
+    "yomikata": "",
+    "imi": "그 외, 기타"
+  },
+  {
+    "tango": "そのまま",
+    "yomikata": "",
+    "imi": "그대로"
+  },
+  {
+    "tango": "そのもの",
+    "yomikata": "",
+    "imi": "그 자체"
+  },
+  {
+    "tango": "算盤",
+    "yomikata": "そろばん",
+    "imi": "주판, 계산, 셈"
+  },
+  {
+    "tango": "損",
+    "yomikata": "そん",
+    "imi": "손해, 손실"
+  },
+  {
+    "tango": "損害",
+    "yomikata": "そんがい",
+    "imi": "손해, 손실"
+  },
+  {
+    "tango": "尊敬",
+    "yomikata": "そんけい",
+    "imi": "존경"
+  },
+  {
+    "tango": "存在",
+    "yomikata": "そんざい",
+    "imi": "존재"
+  },
+  {
+    "tango": "尊重",
+    "yomikata": "そんちょう",
+    "imi": "존중"
+  },
+  {
+    "tango": "損得",
+    "yomikata": "そんとく",
+    "imi": "손익, 손실과 이득"
+  },
+  {
+    "tango": "第一印象",
+    "yomikata": "だいいちいんしょう",
+    "imi": "첫인상"
+  },
+  {
+    "tango": "体格",
+    "yomikata": "たいかく",
+    "imi": "체격"
+  },
+  {
+    "tango": "大学院",
+    "yomikata": "だいがくいん",
+    "imi": "대학원"
+  },
+  {
+    "tango": "体感",
+    "yomikata": "たいかん",
+    "imi": "체감"
+  },
+  {
+    "tango": "大気",
+    "yomikata": "たいき",
+    "imi": "대기"
+  },
+  {
+    "tango": "大工",
+    "yomikata": "だいく",
+    "imi": "목수, 목공"
+  },
+  {
+    "tango": "体系",
+    "yomikata": "たいけい",
+    "imi": "체계"
+  },
+  {
+    "tango": "太鼓",
+    "yomikata": "たいこ",
+    "imi": "북"
+  },
+  {
+    "tango": "滞在",
+    "yomikata": "たいざい",
+    "imi": "체재, 체류"
+  },
+  {
+    "tango": "対象",
+    "yomikata": "たいしょう",
+    "imi": "대상, 상대"
+  },
+  {
+    "tango": "対照",
+    "yomikata": "たいしょう",
+    "imi": "대조, 대비"
+  },
+  {
+    "tango": "大小",
+    "yomikata": "だいしょう",
+    "imi": "대소"
+  },
+  {
+    "tango": "大臣",
+    "yomikata": "だいじん",
+    "imi": "대신, 장관"
+  },
+  {
+    "tango": "体制",
+    "yomikata": "たいせい",
+    "imi": "체제"
+  },
+  {
+    "tango": "体積",
+    "yomikata": "たいせき",
+    "imi": "체적, 부피"
+  },
+  {
+    "tango": "大戦",
+    "yomikata": "たいせん",
+    "imi": "대전, 큰 전쟁"
+  },
+  {
+    "tango": "対戦",
+    "yomikata": "たいせん",
+    "imi": "대전, 대항전"
+  },
+  {
+    "tango": "体操",
+    "yomikata": "たいそう",
+    "imi": "체조"
+  },
+  {
+    "tango": "大半",
+    "yomikata": "たいはん",
+    "imi": "태반, 대부분"
+  },
+  {
+    "tango": "対比",
+    "yomikata": "たいひ",
+    "imi": "대비, 대조"
+  },
+  {
+    "tango": "大部分",
+    "yomikata": "だいぶぶん",
+    "imi": "대부분, 거의"
+  },
+  {
+    "tango": "大木",
+    "yomikata": "たいぼく",
+    "imi": "거목, 커다란 나무"
+  },
+  {
+    "tango": "代名詞",
+    "yomikata": "だいめいし",
+    "imi": "대명사"
+  },
+  {
+    "tango": "体毛",
+    "yomikata": "たいもう",
+    "imi": "체모, 몸의 털"
+  },
+  {
+    "tango": "太陽",
+    "yomikata": "たいよう",
+    "imi": "태양"
+  },
+  {
+    "tango": "大陸",
+    "yomikata": "たいりく",
+    "imi": "대륙"
+  },
+  {
+    "tango": "対立",
+    "yomikata": "たいりつ",
+    "imi": "대립"
+  },
+  {
+    "tango": "田植え",
+    "yomikata": "たうえ",
+    "imi": "모내기"
+  },
+  {
+    "tango": "楕円",
+    "yomikata": "だえん",
+    "imi": "타원"
+  },
+  {
+    "tango": "滝",
+    "yomikata": "たき",
+    "imi": "폭포"
+  },
+  {
+    "tango": "立場",
+    "yomikata": "たちば",
+    "imi": "입장"
+  },
+  {
+    "tango": "脱線",
+    "yomikata": "だっせん",
+    "imi": "탈선"
+  },
+  {
+    "tango": "谷",
+    "yomikata": "たに",
+    "imi": "계곡"
+  },
+  {
+    "tango": "束",
+    "yomikata": "たば",
+    "imi": "다발, 묶음"
+  },
+  {
+    "tango": "田畑",
+    "yomikata": "たはた",
+    "imi": "전답, 논밭"
+  },
+  {
+    "tango": "便り",
+    "yomikata": "たより",
+    "imi": "소식, 편지"
+  },
+  {
+    "tango": "単位",
+    "yomikata": "たんい",
+    "imi": "단위, 학점"
+  },
+  {
+    "tango": "段階",
+    "yomikata": "だんかい",
+    "imi": "단계"
+  },
+  {
+    "tango": "短所",
+    "yomikata": "たんしょ",
+    "imi": "단점"
+  },
+  {
+    "tango": "男女",
+    "yomikata": "だんじょ",
+    "imi": "남녀"
+  },
+  {
+    "tango": "淡水",
+    "yomikata": "たんすい",
+    "imi": "담수, 민물"
+  },
+  {
+    "tango": "団地",
+    "yomikata": "だんち",
+    "imi": "단지"
+  },
+  {
+    "tango": "断定",
+    "yomikata": "だんてい",
+    "imi": "단정"
+  },
+  {
+    "tango": "担任",
+    "yomikata": "たんにん",
+    "imi": "담임"
+  },
+  {
+    "tango": "短編",
+    "yomikata": "たんぺん",
+    "imi": "단편"
+  },
+  {
+    "tango": "田んぼ",
+    "yomikata": "たんぼ",
+    "imi": "논"
+  },
+  {
+    "tango": "地位",
+    "yomikata": "ちい",
+    "imi": "지위"
+  },
+  {
+    "tango": "地域",
+    "yomikata": "ちいき",
+    "imi": "지역"
+  },
+  {
+    "tango": "知恵",
+    "yomikata": "ちえ",
+    "imi": "지혜"
+  },
+  {
+    "tango": "近頃",
+    "yomikata": "ちかごろ",
+    "imi": "최근, 요즘"
+  },
+  {
+    "tango": "地区",
+    "yomikata": "ちく",
+    "imi": "지구, 지역"
+  },
+  {
+    "tango": "知事",
+    "yomikata": "ちじ",
+    "imi": "지사(행정 직위)"
+  },
+  {
+    "tango": "知識",
+    "yomikata": "ちしき",
+    "imi": "지식"
+  },
+  {
+    "tango": "地帯",
+    "yomikata": "ちたい",
+    "imi": "지대"
+  },
+  {
+    "tango": "地点",
+    "yomikata": "ちてん",
+    "imi": "지점"
+  },
+  {
+    "tango": "知能",
+    "yomikata": "ちのう",
+    "imi": "지능"
+  },
+  {
+    "tango": "地平線",
+    "yomikata": "ちへいせん",
+    "imi": "지평선"
+  },
+  {
+    "tango": "中継",
+    "yomikata": "ちゅうけい",
+    "imi": "중계"
+  },
+  {
+    "tango": "駐車",
+    "yomikata": "ちゅうしゃ",
+    "imi": "주차"
+  },
+  {
+    "tango": "中断",
+    "yomikata": "ちゅうだん",
+    "imi": "중단"
+  },
+  {
+    "tango": "中立",
+    "yomikata": "ちゅうりつ",
+    "imi": "중립"
+  },
+  {
+    "tango": "長官",
+    "yomikata": "ちょうかん",
+    "imi": "장관(행적 직위)"
+  },
+  {
+    "tango": "朝刊",
+    "yomikata": "ちょうかん",
+    "imi": "조간, 조간 신문"
+  },
+  {
+    "tango": "長期",
+    "yomikata": "ちょうき",
+    "imi": "장기"
+  },
+  {
+    "tango": "彫刻",
+    "yomikata": "ちょうこく",
+    "imi": "조각"
+  },
+  {
+    "tango": "長時間",
+    "yomikata": "ちょうじかん",
+    "imi": "장시간"
+  },
+  {
+    "tango": "頂上",
+    "yomikata": "ちょうじょう",
+    "imi": "정상, 꼭대기"
+  },
+  {
+    "tango": "調節",
+    "yomikata": "ちょうせつ",
+    "imi": "조절"
+  },
+  {
+    "tango": "頂点",
+    "yomikata": "ちょうてん",
+    "imi": "정점, 정상 꼭대기"
+  },
+  {
+    "tango": "長方形",
+    "yomikata": "ちょうほうけい",
+    "imi": "장방형, 직사각형"
+  },
+  {
+    "tango": "調理",
+    "yomikata": "ちょうり",
+    "imi": "조리"
+  },
+  {
+    "tango": "著者",
+    "yomikata": "ちょしゃ",
+    "imi": "저자"
+  },
+  {
+    "tango": "著書",
+    "yomikata": "ちょしょ",
+    "imi": "저서"
+  },
+  {
+    "tango": "貯蔵",
+    "yomikata": "ちょぞう",
+    "imi": "저장"
+  },
+  {
+    "tango": "直角",
+    "yomikata": "ちょっかく",
+    "imi": "직각"
+  },
+  {
+    "tango": "直径",
+    "yomikata": "ちょっけい",
+    "imi": "직경, 지름"
+  },
+  {
+    "tango": "治療",
+    "yomikata": "ちりょう",
+    "imi": "치료"
+  },
+  {
+    "tango": "追加",
+    "yomikata": "ついか",
+    "imi": "추가"
+  },
+  {
+    "tango": "通貨",
+    "yomikata": "つうか",
+    "imi": "통화, 통용화"
+  },
+  {
+    "tango": "通学",
+    "yomikata": "つうがく",
+    "imi": "통학"
+  },
+  {
+    "tango": "通達",
+    "yomikata": "つうたつ",
+    "imi": "통첩, 통지(행정 용어)"
+  },
+  {
+    "tango": "通用",
+    "yomikata": "つうよう",
+    "imi": "통용"
+  },
+  {
+    "tango": "通路",
+    "yomikata": "つうろ",
+    "imi": "통로"
+  },
+  {
+    "tango": "使い捨て",
+    "yomikata": "つかいすて",
+    "imi": "일회용, 쓰고 버림"
+  },
+  {
+    "tango": "疲れ",
+    "yomikata": "つかれ",
+    "imi": "피로"
+  },
+  {
+    "tango": "突き当たり",
+    "yomikata": "つきあたり",
+    "imi": "막다른 곳"
+  },
+  {
+    "tango": "唾",
+    "yomikata": "つば",
+    "imi": "침, 타액"
+  },
+  {
+    "tango": "粒",
+    "yomikata": "つぶ",
+    "imi": "알갱이, 낱알"
+  },
+  {
+    "tango": "罪",
+    "yomikata": "つみ",
+    "imi": "죄"
+  },
+  {
+    "tango": "積み重ね",
+    "yomikata": "つみかさね",
+    "imi": "축적, 쌓아 올림"
+  },
+  {
+    "tango": "つや",
+    "yomikata": "",
+    "imi": "윤기, 광택"
+  },
+  {
+    "tango": "強み",
+    "yomikata": "つよみ",
+    "imi": "강점"
+  },
+  {
+    "tango": "釣り",
+    "yomikata": "つり",
+    "imi": "낚시"
+  },
+  {
+    "tango": "連れ",
+    "yomikata": "つれ",
+    "imi": "동반"
+  },
+  {
+    "tango": "定価",
+    "yomikata": "ていか",
+    "imi": "정가"
+  },
+  {
+    "tango": "定休日",
+    "yomikata": "ていきゅうび",
+    "imi": "정기휴일"
+  },
+  {
+    "tango": "抵抗",
+    "yomikata": "ていこう",
+    "imi": "저항"
+  },
+  {
+    "tango": "停止",
+    "yomikata": "ていし",
+    "imi": "정지"
+  },
+  {
+    "tango": "訂正",
+    "yomikata": "ていせい",
+    "imi": "정정"
+  },
+  {
+    "tango": "程度",
+    "yomikata": "ていど",
+    "imi": "정도, 수준, 가량"
+  },
+  {
+    "tango": "停留所",
+    "yomikata": "ていりゅうじょ",
+    "imi": "정류소"
+  },
+  {
+    "tango": "手入れ",
+    "yomikata": "ていれ",
+    "imi": "손질, 단속"
+  },
+  {
+    "tango": "手書き",
+    "yomikata": "てがき",
+    "imi": "자필, 손으로 씀"
+  },
+  {
+    "tango": "敵",
+    "yomikata": "てき",
+    "imi": "적"
+  },
+  {
+    "tango": "適用",
+    "yomikata": "てきよう",
+    "imi": "적용"
+  },
+  {
+    "tango": "弟子",
+    "yomikata": "でし",
+    "imi": "제자"
+  },
+  {
+    "tango": "手帳",
+    "yomikata": "てちょう",
+    "imi": "수첩"
+  },
+  {
+    "tango": "鉄",
+    "yomikata": "てつ",
+    "imi": "철(금속)"
+  },
+  {
+    "tango": "哲学",
+    "yomikata": "てつがく",
+    "imi": "철학"
+  },
+  {
+    "tango": "鉄橋",
+    "yomikata": "てっきょう",
+    "imi": "철교"
+  },
+  {
+    "tango": "手作り",
+    "yomikata": "てづくり",
+    "imi": "손수 만듦, 수제"
+  },
+  {
+    "tango": "手続き",
+    "yomikata": "てつづき",
+    "imi": "수속"
+  },
+  {
+    "tango": "徹底",
+    "yomikata": "てってい",
+    "imi": "철저"
+  },
+  {
+    "tango": "鉄砲",
+    "yomikata": "てっぽう",
+    "imi": "총"
+  },
+  {
+    "tango": "徹夜",
+    "yomikata": "てつや",
+    "imi": "철야, 밤 새움"
+  },
+  {
+    "tango": "手間",
+    "yomikata": "てま",
+    "imi": "수고, 시간, 노력"
+  },
+  {
+    "tango": "出迎え",
+    "yomikata": "でむかえ",
+    "imi": "마중"
+  },
+  {
+    "tango": "添加",
+    "yomikata": "てんか",
+    "imi": "첨가"
+  },
+  {
+    "tango": "展開",
+    "yomikata": "てんかい",
+    "imi": "전개"
+  },
+  {
+    "tango": "伝記",
+    "yomikata": "でんき",
+    "imi": "전기(기록)"
+  },
+  {
+    "tango": "典型",
+    "yomikata": "てんけい",
+    "imi": "전형"
+  },
+  {
+    "tango": "天候",
+    "yomikata": "てんこう",
+    "imi": "기후, 날씨"
+  },
+  {
+    "tango": "電子",
+    "yomikata": "でんし",
+    "imi": "전자"
+  },
+  {
+    "tango": "天井",
+    "yomikata": "てんじょう",
+    "imi": "천정, 천장"
+  },
+  {
+    "tango": "天職",
+    "yomikata": "てんしょく",
+    "imi": "천직"
+  },
+  {
+    "tango": "点数",
+    "yomikata": "てんすう",
+    "imi": "점수"
+  },
+  {
+    "tango": "電卓",
+    "yomikata": "でんたく",
+    "imi": "전자 계산기"
+  },
+  {
+    "tango": "電池",
+    "yomikata": "でんち",
+    "imi": "전지"
+  },
+  {
+    "tango": "店長",
+    "yomikata": "てんちょう",
+    "imi": "점장"
+  },
+  {
+    "tango": "伝統",
+    "yomikata": "でんとう",
+    "imi": "전통"
+  },
+  {
+    "tango": "店内",
+    "yomikata": "てんない",
+    "imi": "점내"
+  },
+  {
+    "tango": "天然",
+    "yomikata": "てんねん",
+    "imi": "천연"
+  },
+  {
+    "tango": "電波",
+    "yomikata": "でんぱ",
+    "imi": "전파"
+  },
+  {
+    "tango": "添付",
+    "yomikata": "てんぷ",
+    "imi": "첨부"
+  },
+  {
+    "tango": "電流",
+    "yomikata": "でんりゅう",
+    "imi": "전류"
+  },
+  {
+    "tango": "電力",
+    "yomikata": "でんりょく",
+    "imi": "전력"
+  },
+  {
+    "tango": "統一",
+    "yomikata": "とういつ",
+    "imi": "통일"
+  },
+  {
+    "tango": "同格",
+    "yomikata": "どうかく",
+    "imi": "동격, 같은 자격"
+  },
+  {
+    "tango": "峠",
+    "yomikata": "とうげ",
+    "imi": "고개, 고비"
+  },
+  {
+    "tango": "動作",
+    "yomikata": "どうさ",
+    "imi": "동작"
+  },
+  {
+    "tango": "東西",
+    "yomikata": "とうざい",
+    "imi": "동서, 동쪽과 서쪽"
+  },
+  {
+    "tango": "当時",
+    "yomikata": "とうじ",
+    "imi": "당시"
+  },
+  {
+    "tango": "同時",
+    "yomikata": "どうじ",
+    "imi": "동시"
+  },
+  {
+    "tango": "投書",
+    "yomikata": "とうしょ",
+    "imi": "투서, 투고"
+  },
+  {
+    "tango": "道徳",
+    "yomikata": "どうとく",
+    "imi": "도덕"
+  },
+  {
+    "tango": "盗難",
+    "yomikata": "とうなん",
+    "imi": "도난"
+  },
+  {
+    "tango": "導入",
+    "yomikata": "どうにゅう",
+    "imi": "도입"
+  },
+  {
+    "tango": "当番",
+    "yomikata": "とうばん",
+    "imi": "당번"
+  },
+  {
+    "tango": "投票",
+    "yomikata": "とうひょう",
+    "imi": "투표"
+  },
+  {
+    "tango": "逃亡",
+    "yomikata": "とうぼう",
+    "imi": "도망"
+  },
+  {
+    "tango": "童謡",
+    "yomikata": "どうよう",
+    "imi": "동요"
+  },
+  {
+    "tango": "同僚",
+    "yomikata": "どうりょう",
+    "imi": "동료"
+  },
+  {
+    "tango": "登録",
+    "yomikata": "とうろく",
+    "imi": "등록"
+  },
+  {
+    "tango": "討論",
+    "yomikata": "とうろん",
+    "imi": "토론"
+  },
+  {
+    "tango": "童話",
+    "yomikata": "どうわ",
+    "imi": "동화"
+  },
+  {
+    "tango": "特性",
+    "yomikata": "とくせい",
+    "imi": "특성"
+  },
+  {
+    "tango": "特徴",
+    "yomikata": "とくちょう",
+    "imi": "특징"
+  },
+  {
+    "tango": "特定",
+    "yomikata": "とくてい",
+    "imi": "특정"
+  },
+  {
+    "tango": "図書",
+    "yomikata": "としょ",
+    "imi": "도서"
+  },
+  {
+    "tango": "都心",
+    "yomikata": "としん",
+    "imi": "도심"
+  },
+  {
+    "tango": "戸棚",
+    "yomikata": "とだな",
+    "imi": "찬장"
+  },
+  {
+    "tango": "とたん",
+    "yomikata": "",
+    "imi": "(바로 그) 순간, 갑자기"
+  },
+  {
+    "tango": "隣",
+    "yomikata": "となり",
+    "imi": "곁, 옆"
+  },
+  {
+    "tango": "虎",
+    "yomikata": "とら",
+    "imi": "호랑이"
+  },
+  {
+    "tango": "丼",
+    "yomikata": "どんぶり",
+    "imi": "① 사발   ② 덮밥"
+  },
+  {
+    "tango": "長生き",
+    "yomikata": "ながいき",
+    "imi": "장수"
+  },
+  {
+    "tango": "仲直り",
+    "yomikata": "なかなおり",
+    "imi": "화해"
+  },
+  {
+    "tango": "長年",
+    "yomikata": "ながねん",
+    "imi": "오랜 세월"
+  },
+  {
+    "tango": "半ば",
+    "yomikata": "なかば",
+    "imi": "절반, 중간"
+  },
+  {
+    "tango": "仲間",
+    "yomikata": "なかま",
+    "imi": "동료"
+  },
+  {
+    "tango": "中身",
+    "yomikata": "なかみ",
+    "imi": "속, 내용, 알맹이"
+  },
+  {
+    "tango": "眺め",
+    "yomikata": "ながめ",
+    "imi": "전망, 조망, 경치"
+  },
+  {
+    "tango": "無し",
+    "yomikata": "なし",
+    "imi": "없음"
+  },
+  {
+    "tango": "謎",
+    "yomikata": "なぞ",
+    "imi": "수수께끼"
+  },
+  {
+    "tango": "納豆",
+    "yomikata": "なっとう",
+    "imi": "낫토(콩 발효 식품)"
+  },
+  {
+    "tango": "納得",
+    "yomikata": "なっとく",
+    "imi": "납득"
+  },
+  {
+    "tango": "鍋",
+    "yomikata": "なべ",
+    "imi": "냄비"
+  },
+  {
+    "tango": "縄",
+    "yomikata": "なわ",
+    "imi": "새끼줄, 밧줄"
+  },
+  {
+    "tango": "南極",
+    "yomikata": "なんきょく",
+    "imi": "남극"
+  },
+  {
+    "tango": "南米",
+    "yomikata": "なんべい",
+    "imi": "남미"
+  },
+  {
+    "tango": "荷",
+    "yomikata": "に",
+    "imi": "짐, 부담"
+  },
+  {
+    "tango": "肉類",
+    "yomikata": "にくるい",
+    "imi": "육류"
+  },
+  {
+    "tango": "虹",
+    "yomikata": "にじ",
+    "imi": "무지개"
+  },
+  {
+    "tango": "日課",
+    "yomikata": "にっか",
+    "imi": "일과"
+  },
+  {
+    "tango": "日光",
+    "yomikata": "にっこう",
+    "imi": "일광, 햇빛"
+  },
+  {
+    "tango": "入荷",
+    "yomikata": "にゅうか",
+    "imi": "입하, 들어옴"
+  },
+  {
+    "tango": "布",
+    "yomikata": "ぬの",
+    "imi": "천, 헝겊"
+  },
+  {
+    "tango": "ねじ",
+    "yomikata": "",
+    "imi": "나사, 태엽"
+  },
+  {
+    "tango": "熱帯",
+    "yomikata": "ねったい",
+    "imi": "열대"
+  },
+  {
+    "tango": "値引き",
+    "yomikata": "ねびき",
+    "imi": "가격 인하, 값을 깎아줌, 할인"
+  },
+  {
+    "tango": "寝巻き",
+    "yomikata": "ねまき",
+    "imi": "잠옷"
+  },
+  {
+    "tango": "眠り",
+    "yomikata": "ねむり",
+    "imi": "잠, 수면"
+  },
+  {
+    "tango": "狙い",
+    "yomikata": "ねらい",
+    "imi": "표적, 목적"
+  },
+  {
+    "tango": "年代",
+    "yomikata": "ねんだい",
+    "imi": "연대"
+  },
+  {
+    "tango": "年度",
+    "yomikata": "ねんど",
+    "imi": "연도"
+  },
+  {
+    "tango": "年齢",
+    "yomikata": "ねんれい",
+    "imi": "연령"
+  },
+  {
+    "tango": "農家",
+    "yomikata": "のうか",
+    "imi": "농가"
+  },
+  {
+    "tango": "農業",
+    "yomikata": "のうぎょう",
+    "imi": "농업"
+  },
+  {
+    "tango": "農産物",
+    "yomikata": "のうさんぶつ",
+    "imi": "농산물"
+  },
+  {
+    "tango": "納税",
+    "yomikata": "のうぜい",
+    "imi": "납세"
+  },
+  {
+    "tango": "濃度",
+    "yomikata": "のうど",
+    "imi": "농도"
+  },
+  {
+    "tango": "納付",
+    "yomikata": "のうふ",
+    "imi": "납부"
+  },
+  {
+    "tango": "農薬",
+    "yomikata": "のうやく",
+    "imi": "농약"
+  },
+  {
+    "tango": "能率",
+    "yomikata": "のうりつ",
+    "imi": "능률"
+  },
+  {
+    "tango": "軒",
+    "yomikata": "のき",
+    "imi": "처마"
+  },
+  {
+    "tango": "望み",
+    "yomikata": "のぞみ",
+    "imi": "바램, 소망"
+  },
+  {
+    "tango": "後",
+    "yomikata": "のち",
+    "imi": "후, 다음, 나중"
+  },
+  {
+    "tango": "糊",
+    "yomikata": "のり",
+    "imi": "풀(접착제)"
+  },
+  {
+    "tango": "場",
+    "yomikata": "ば",
+    "imi": "곳, 장소"
+  },
+  {
+    "tango": "背景",
+    "yomikata": "はいけい",
+    "imi": "배경"
+  },
+  {
+    "tango": "廃止",
+    "yomikata": "はいし",
+    "imi": "폐지"
+  },
+  {
+    "tango": "配分",
+    "yomikata": "はいぶん",
+    "imi": "배분"
+  },
+  {
+    "tango": "売買",
+    "yomikata": "ばいばい",
+    "imi": "매매"
+  },
+  {
+    "tango": "俳優",
+    "yomikata": "はいゆう",
+    "imi": "배우"
+  },
+  {
+    "tango": "墓",
+    "yomikata": "はか",
+    "imi": "무덤"
+  },
+  {
+    "tango": "馬鹿",
+    "yomikata": "ばか",
+    "imi": "바보"
+  },
+  {
+    "tango": "博士",
+    "yomikata": "はかせ",
+    "imi": "박사"
+  },
+  {
+    "tango": "墓参り",
+    "yomikata": "はかまいり",
+    "imi": "성묘"
+  },
+  {
+    "tango": "秤",
+    "yomikata": "はかり",
+    "imi": "저울"
+  },
+  {
+    "tango": "吐気",
+    "yomikata": "はきけ",
+    "imi": "구역질, 메스꺼움"
+  },
+  {
+    "tango": "爆発",
+    "yomikata": "ばくはつ",
+    "imi": "폭발"
+  },
+  {
+    "tango": "歯車",
+    "yomikata": "はぐるま",
+    "imi": "톱니바퀴"
+  },
+  {
+    "tango": "はさみ",
+    "yomikata": "",
+    "imi": "가위"
+  },
+  {
+    "tango": "破産",
+    "yomikata": "はさん",
+    "imi": "파산"
+  },
+  {
+    "tango": "端",
+    "yomikata": "はし",
+    "imi": "끝, 가장자리"
+  },
+  {
+    "tango": "梯子",
+    "yomikata": "はしご",
+    "imi": "사다리"
+  },
+  {
+    "tango": "初め",
+    "yomikata": "はじめ",
+    "imi": "처음, 시작"
+  },
+  {
+    "tango": "旗",
+    "yomikata": "はた",
+    "imi": "기, 깃발"
+  },
+  {
+    "tango": "肌",
+    "yomikata": "はだ",
+    "imi": "피부"
+  },
+  {
+    "tango": "裸",
+    "yomikata": "はだか",
+    "imi": "알몸"
+  },
+  {
+    "tango": "肌着",
+    "yomikata": "はだぎ",
+    "imi": "속옷, 내의"
+  },
+  {
+    "tango": "鉢",
+    "yomikata": "はち",
+    "imi": "주발, 대접"
+  },
+  {
+    "tango": "発揮",
+    "yomikata": "はっき",
+    "imi": "발휘"
+  },
+  {
+    "tango": "発掘",
+    "yomikata": "はっくつ",
+    "imi": "발굴"
+  },
+  {
+    "tango": "発行",
+    "yomikata": "はっこう",
+    "imi": "발행"
+  },
+  {
+    "tango": "発射",
+    "yomikata": "はっしゃ",
+    "imi": "발사"
+  },
+  {
+    "tango": "花嫁",
+    "yomikata": "はなよめ",
+    "imi": "신부, 새색시"
+  },
+  {
+    "tango": "ばね",
+    "yomikata": "",
+    "imi": "용수철, 탄력"
+  },
+  {
+    "tango": "破片",
+    "yomikata": "はへん",
+    "imi": "파편"
+  },
+  {
+    "tango": "早起き",
+    "yomikata": "はやおき",
+    "imi": "일찍 일어남, 조기"
+  },
+  {
+    "tango": "針金",
+    "yomikata": "はりがね",
+    "imi": "철사"
+  },
+  {
+    "tango": "春先",
+    "yomikata": "はるさき",
+    "imi": "초봄, 이른 봄"
+  },
+  {
+    "tango": "反映",
+    "yomikata": "はんえい",
+    "imi": "반영"
+  },
+  {
+    "tango": "半径",
+    "yomikata": "はんけい",
+    "imi": "반경, 반지름"
+  },
+  {
+    "tango": "判子",
+    "yomikata": "はんこ",
+    "imi": "도장, 인감"
+  },
+  {
+    "tango": "反抗",
+    "yomikata": "はんこう",
+    "imi": "반항"
+  },
+  {
+    "tango": "犯罪",
+    "yomikata": "はんざい",
+    "imi": "범죄"
+  },
+  {
+    "tango": "万歳",
+    "yomikata": "ばんざい",
+    "imi": "만세"
+  },
+  {
+    "tango": "判事",
+    "yomikata": "はんじ",
+    "imi": "판사"
+  },
+  {
+    "tango": "半数",
+    "yomikata": "はんすう",
+    "imi": "반수"
+  },
+  {
+    "tango": "半そで",
+    "yomikata": "はんそで",
+    "imi": "반 소매"
+  },
+  {
+    "tango": "判断",
+    "yomikata": "はんだん",
+    "imi": "판단"
+  },
+  {
+    "tango": "反応",
+    "yomikata": "はんのう",
+    "imi": "반응"
+  },
+  {
+    "tango": "反面",
+    "yomikata": "はんめん",
+    "imi": "반면"
+  },
+  {
+    "tango": "反論",
+    "yomikata": "はんろん",
+    "imi": "반론"
+  },
+  {
+    "tango": "比較",
+    "yomikata": "ひかく",
+    "imi": "비교"
+  },
+  {
+    "tango": "日陰",
+    "yomikata": "ひかげ",
+    "imi": "그늘, 응달, 음지"
+  },
+  {
+    "tango": "引き分け",
+    "yomikata": "ひきわけ",
+    "imi": "갈라 놓음, 무승부"
+  },
+  {
+    "tango": "悲劇",
+    "yomikata": "ひげき",
+    "imi": "비극"
+  },
+  {
+    "tango": "膝",
+    "yomikata": "ひざ",
+    "imi": "무릎"
+  },
+  {
+    "tango": "日差し",
+    "yomikata": "ひざし",
+    "imi": "햇살, 햇볕"
+  },
+  {
+    "tango": "肘",
+    "yomikata": "ひじ",
+    "imi": "팔꿈치"
+  },
+  {
+    "tango": "非常",
+    "yomikata": "ひじょう",
+    "imi": "비상"
+  },
+  {
+    "tango": "額",
+    "yomikata": "ひたい",
+    "imi": "이마"
+  },
+  {
+    "tango": "筆者",
+    "yomikata": "ひっしゃ",
+    "imi": "필자"
+  },
+  {
+    "tango": "必需品",
+    "yomikata": "ひつじゅひん",
+    "imi": "필수품"
+  },
+  {
+    "tango": "否定",
+    "yomikata": "ひてい",
+    "imi": "부정"
+  },
+  {
+    "tango": "一言",
+    "yomikata": "ひとこと",
+    "imi": "한마디"
+  },
+  {
+    "tango": "人込み",
+    "yomikata": "ひとごみ",
+    "imi": "인파"
+  },
+  {
+    "tango": "人手",
+    "yomikata": "ひとで",
+    "imi": "일손, 노동력"
+  },
+  {
+    "tango": "人通り",
+    "yomikata": "ひとどおり",
+    "imi": "왕래, 통행"
+  },
+  {
+    "tango": "一眠り",
+    "yomikata": "ひとねむり",
+    "imi": "한숨 잠, 잠깐 잠"
+  },
+  {
+    "tango": "瞳",
+    "yomikata": "ひとみ",
+    "imi": "눈동자"
+  },
+  {
+    "tango": "一人暮らし",
+    "yomikata": "ひとりぐらし",
+    "imi": "혼자서 삶, 독신 생활"
+  },
+  {
+    "tango": "独り言",
+    "yomikata": "ひとりごと",
+    "imi": "혼잣말"
+  },
+  {
+    "tango": "非難",
+    "yomikata": "ひなん",
+    "imi": "비난"
+  },
+  {
+    "tango": "皮肉",
+    "yomikata": "ひにく",
+    "imi": "비아냥, 비꼼"
+  },
+  {
+    "tango": "日にち",
+    "yomikata": "ひにち",
+    "imi": "날짜"
+  },
+  {
+    "tango": "日の出",
+    "yomikata": "ひので",
+    "imi": "일출, 해돋이"
+  },
+  {
+    "tango": "批判",
+    "yomikata": "ひはん",
+    "imi": "비판"
+  },
+  {
+    "tango": "日々",
+    "yomikata": "ひび",
+    "imi": "나날, 매일"
+  },
+  {
+    "tango": "批評",
+    "yomikata": "ひひょう",
+    "imi": "비평"
+  },
+  {
+    "tango": "皮膚",
+    "yomikata": "ひふ",
+    "imi": "피부"
+  },
+  {
+    "tango": "秘密",
+    "yomikata": "ひみつ",
+    "imi": "비밀"
+  },
+  {
+    "tango": "評価",
+    "yomikata": "ひょうか",
+    "imi": "평가"
+  },
+  {
+    "tango": "標識",
+    "yomikata": "ひょうしき",
+    "imi": "표지, 표식"
+  },
+  {
+    "tango": "標準",
+    "yomikata": "ひょうじゅん",
+    "imi": "표준"
+  },
+  {
+    "tango": "評判",
+    "yomikata": "ひょうばん",
+    "imi": "평판"
+  },
+  {
+    "tango": "標本",
+    "yomikata": "ひょうほん",
+    "imi": "표본, 본보기"
+  },
+  {
+    "tango": "評論",
+    "yomikata": "ひょうろん",
+    "imi": "평론"
+  },
+  {
+    "tango": "比例",
+    "yomikata": "ひれい",
+    "imi": "비례"
+  },
+  {
+    "tango": "疲労",
+    "yomikata": "ひろう",
+    "imi": "피로"
+  },
+  {
+    "tango": "広場",
+    "yomikata": "ひろば",
+    "imi": "광장"
+  },
+  {
+    "tango": "瓶",
+    "yomikata": "びん",
+    "imi": "병"
+  },
+  {
+    "tango": "貧困",
+    "yomikata": "ひんこん",
+    "imi": "빈곤"
+  },
+  {
+    "tango": "無愛想",
+    "yomikata": "ぶあいそう",
+    "imi": "무뚝뚝함, 상냥치 못함"
+  },
+  {
+    "tango": "部員",
+    "yomikata": "ぶいん",
+    "imi": "부원, 멤버"
+  },
+  {
+    "tango": "風船",
+    "yomikata": "ふうせん",
+    "imi": "풍선"
+  },
+  {
+    "tango": "笛",
+    "yomikata": "ふえ",
+    "imi": "피리"
+  },
+  {
+    "tango": "不可",
+    "yomikata": "ふか",
+    "imi": "① 옳지 않음   ② 불가능함"
+  },
+  {
+    "tango": "部活",
+    "yomikata": "ぶかつ",
+    "imi": "동아리 활동, 클럽 활동"
+  },
+  {
+    "tango": "武器",
+    "yomikata": "ぶき",
+    "imi": "무기"
+  },
+  {
+    "tango": "普及",
+    "yomikata": "ふきゅう",
+    "imi": "보급"
+  },
+  {
+    "tango": "付近",
+    "yomikata": "ふきん",
+    "imi": "부근"
+  },
+  {
+    "tango": "福祉",
+    "yomikata": "ふくし",
+    "imi": "복지"
+  },
+  {
+    "tango": "複写",
+    "yomikata": "ふくしゃ",
+    "imi": "복사"
+  },
+  {
+    "tango": "服従",
+    "yomikata": "ふくじゅう",
+    "imi": "복종"
+  },
+  {
+    "tango": "服装",
+    "yomikata": "ふくそう",
+    "imi": "복장, 옷차림"
+  },
+  {
+    "tango": "袋",
+    "yomikata": "ふくろ",
+    "imi": "봉지, 자루"
+  },
+  {
+    "tango": "符号",
+    "yomikata": "ふごう",
+    "imi": "부호, 기호"
+  },
+  {
+    "tango": "無沙汰",
+    "yomikata": "ぶさた",
+    "imi": "무소식, 격조"
+  },
+  {
+    "tango": "節",
+    "yomikata": "ふし",
+    "imi": "① 마디, 관절   ② 매듭, 고비"
+  },
+  {
+    "tango": "武士",
+    "yomikata": "ぶし",
+    "imi": "무사"
+  },
+  {
+    "tango": "部署",
+    "yomikata": "ぶしょ",
+    "imi": "부서"
+  },
+  {
+    "tango": "不祥事",
+    "yomikata": "ふしょうじ",
+    "imi": "불상사"
+  },
+  {
+    "tango": "不正",
+    "yomikata": "ふせい",
+    "imi": "부정"
+  },
+  {
+    "tango": "付属",
+    "yomikata": "ふぞく",
+    "imi": "부속"
+  },
+  {
+    "tango": "双子",
+    "yomikata": "ふたご",
+    "imi": "쌍둥이"
+  },
+  {
+    "tango": "負担",
+    "yomikata": "ふたん",
+    "imi": "부담"
+  },
+  {
+    "tango": "不注意",
+    "yomikata": "ふちゅうい",
+    "imi": "부주의"
+  },
+  {
+    "tango": "物質",
+    "yomikata": "ぶっしつ",
+    "imi": "물질"
+  },
+  {
+    "tango": "船便",
+    "yomikata": "ふなびん",
+    "imi": "배편"
+  },
+  {
+    "tango": "吹雪",
+    "yomikata": "ふぶき",
+    "imi": "눈보라"
+  },
+  {
+    "tango": "不平",
+    "yomikata": "ふへい",
+    "imi": "불평, 불만"
+  },
+  {
+    "tango": "父母",
+    "yomikata": "ふぼ",
+    "imi": "부모"
+  },
+  {
+    "tango": "麓",
+    "yomikata": "ふもと",
+    "imi": "산기슭"
+  },
+  {
+    "tango": "不利益",
+    "yomikata": "ふりえき",
+    "imi": "불이익"
+  },
+  {
+    "tango": "ふるさと",
+    "yomikata": "",
+    "imi": "고향"
+  },
+  {
+    "tango": "噴火",
+    "yomikata": "ふんか",
+    "imi": "분화"
+  },
+  {
+    "tango": "分解",
+    "yomikata": "ぶんかい",
+    "imi": "분해"
+  },
+  {
+    "tango": "噴水",
+    "yomikata": "ふんすい",
+    "imi": "분수"
+  },
+  {
+    "tango": "分析",
+    "yomikata": "ぶんせき",
+    "imi": "분석"
+  },
+  {
+    "tango": "分布",
+    "yomikata": "ぶんぶ",
+    "imi": "분포"
+  },
+  {
+    "tango": "文脈",
+    "yomikata": "ぶんみゃく",
+    "imi": "문맥"
+  },
+  {
+    "tango": "文明",
+    "yomikata": "ぶんめい",
+    "imi": "문명"
+  },
+  {
+    "tango": "分野",
+    "yomikata": "ぶんや",
+    "imi": "분야"
+  },
+  {
+    "tango": "分量",
+    "yomikata": "ぶんりょう",
+    "imi": "분량"
+  },
+  {
+    "tango": "塀",
+    "yomikata": "へい",
+    "imi": "담, 담장, 울타리"
+  },
+  {
+    "tango": "閉会",
+    "yomikata": "へいかい",
+    "imi": "폐회"
+  },
+  {
+    "tango": "兵隊",
+    "yomikata": "へいたい",
+    "imi": "군대, 병사"
+  },
+  {
+    "tango": "平野",
+    "yomikata": "へいや",
+    "imi": "평야, 들"
+  },
+  {
+    "tango": "へそ",
+    "yomikata": "",
+    "imi": "배꼽"
+  },
+  {
+    "tango": "別人",
+    "yomikata": "べつじん",
+    "imi": "딴사람"
+  },
+  {
+    "tango": "別荘",
+    "yomikata": "べっそう",
+    "imi": "별장"
+  },
+  {
+    "tango": "返品",
+    "yomikata": "へんぴん",
+    "imi": "반품"
+  },
+  {
+    "tango": "棒",
+    "yomikata": "ぼう",
+    "imi": "막대, 막대기, 몽둥이"
+  },
+  {
+    "tango": "望遠鏡",
+    "yomikata": "ぼうえんきょう",
+    "imi": "망원경"
+  },
+  {
+    "tango": "方角",
+    "yomikata": "ほうがく",
+    "imi": "방향, 방위"
+  },
+  {
+    "tango": "ほうき",
+    "yomikata": "",
+    "imi": "빗자루"
+  },
+  {
+    "tango": "方言",
+    "yomikata": "ほうげん",
+    "imi": "방언, 사투리"
+  },
+  {
+    "tango": "冒険",
+    "yomikata": "ぼうけん",
+    "imi": "모험"
+  },
+  {
+    "tango": "暴言",
+    "yomikata": "ぼうげん",
+    "imi": "폭언"
+  },
+  {
+    "tango": "方向",
+    "yomikata": "ほうこう",
+    "imi": "방향"
+  },
+  {
+    "tango": "暴行",
+    "yomikata": "ぼうこう",
+    "imi": "폭행"
+  },
+  {
+    "tango": "防災",
+    "yomikata": "ぼうさい",
+    "imi": "방재"
+  },
+  {
+    "tango": "防止",
+    "yomikata": "ぼうし",
+    "imi": "방지"
+  },
+  {
+    "tango": "放出",
+    "yomikata": "ほうしゅつ",
+    "imi": "방출, 분출"
+  },
+  {
+    "tango": "方針",
+    "yomikata": "ほうしん",
+    "imi": "방침"
+  },
+  {
+    "tango": "包装",
+    "yomikata": "ほうそう",
+    "imi": "포장"
+  },
+  {
+    "tango": "包帯",
+    "yomikata": "ほうたい",
+    "imi": "붕대"
+  },
+  {
+    "tango": "防犯",
+    "yomikata": "ぼうはん",
+    "imi": "방범"
+  },
+  {
+    "tango": "暴力",
+    "yomikata": "ぼうりょく",
+    "imi": "폭력"
+  },
+  {
+    "tango": "頬",
+    "yomikata": "ほお/ほほ",
+    "imi": "볼, 뺨"
+  },
+  {
+    "tango": "牧場",
+    "yomikata": "ぼくじょう",
+    "imi": "목장"
+  },
+  {
+    "tango": "牧畜",
+    "yomikata": "ぼくちく",
+    "imi": "목축"
+  },
+  {
+    "tango": "北米",
+    "yomikata": "ほくべい",
+    "imi": "북미"
+  },
+  {
+    "tango": "保健",
+    "yomikata": "ほけん",
+    "imi": "보건"
+  },
+  {
+    "tango": "保証",
+    "yomikata": "ほしょう",
+    "imi": "보증"
+  },
+  {
+    "tango": "補足",
+    "yomikata": "ほそく",
+    "imi": "보충"
+  },
+  {
+    "tango": "北極",
+    "yomikata": "ほっきょく",
+    "imi": "북극"
+  },
+  {
+    "tango": "炎",
+    "yomikata": "ほのお",
+    "imi": "불꽃, 불길"
+  },
+  {
+    "tango": "ぼろ",
+    "yomikata": "",
+    "imi": "넝마, 누더기"
+  },
+  {
+    "tango": "本社",
+    "yomikata": "ほんしゃ",
+    "imi": "본사"
+  },
+  {
+    "tango": "本日",
+    "yomikata": "ほんじつ",
+    "imi": "오늘"
+  },
+  {
+    "tango": "本書",
+    "yomikata": "ほんしょ",
+    "imi": "본서, 이 책"
+  },
+  {
+    "tango": "盆地",
+    "yomikata": "ぼんち",
+    "imi": "분지"
+  },
+  {
+    "tango": "本来",
+    "yomikata": "ほんらい",
+    "imi": "본래"
+  },
+  {
+    "tango": "本論",
+    "yomikata": "ほんろん",
+    "imi": "본론"
+  },
+  {
+    "tango": "毎回",
+    "yomikata": "まいかい",
+    "imi": "매회, 매번"
+  },
+  {
+    "tango": "間際",
+    "yomikata": "まぎわ",
+    "imi": "직전"
+  },
+  {
+    "tango": "枕",
+    "yomikata": "まくら",
+    "imi": "베개"
+  },
+  {
+    "tango": "摩擦",
+    "yomikata": "まさつ",
+    "imi": "마찰"
+  },
+  {
+    "tango": "待合室",
+    "yomikata": "まちあいしつ",
+    "imi": "대합실"
+  },
+  {
+    "tango": "町中",
+    "yomikata": "まちなか",
+    "imi": "시내, 번화가"
+  },
+  {
+    "tango": "真っ先",
+    "yomikata": "まっさき",
+    "imi": "맨 앞, 최초"
+  },
+  {
+    "tango": "真夏",
+    "yomikata": "まなつ",
+    "imi": "한여름"
+  },
+  {
+    "tango": "まぶた",
+    "yomikata": "",
+    "imi": "눈꺼풀"
+  },
+  {
+    "tango": "真冬",
+    "yomikata": "まふゆ",
+    "imi": "한겨울"
+  },
+  {
+    "tango": "万引き",
+    "yomikata": "まんびき",
+    "imi": "물건 훔치기, 몰래 훔침"
+  },
+  {
+    "tango": "実",
+    "yomikata": "み",
+    "imi": "열매, 결실, 성과"
+  },
+  {
+    "tango": "見かけ",
+    "yomikata": "みかけ",
+    "imi": "외관, 겉보기"
+  },
+  {
+    "tango": "見方",
+    "yomikata": "みかた",
+    "imi": "견해, 생각"
+  },
+  {
+    "tango": "三日月",
+    "yomikata": "みかづき",
+    "imi": "초승달"
+  },
+  {
+    "tango": "味噌",
+    "yomikata": "みそ",
+    "imi": "된장"
+  },
+  {
+    "tango": "味噌汁",
+    "yomikata": "みそしる",
+    "imi": "된장국"
+  },
+  {
+    "tango": "身分",
+    "yomikata": "みぶん",
+    "imi": "지위, 신분"
+  },
+  {
+    "tango": "見本",
+    "yomikata": "みほん",
+    "imi": "견본, 본보기"
+  },
+  {
+    "tango": "未満",
+    "yomikata": "みまん",
+    "imi": "미만"
+  },
+  {
+    "tango": "身元",
+    "yomikata": "みもと",
+    "imi": "신원"
+  },
+  {
+    "tango": "都",
+    "yomikata": "みやこ",
+    "imi": "도시, 수도"
+  },
+  {
+    "tango": "名字",
+    "yomikata": "みょうじ",
+    "imi": "성, 성씨"
+  },
+  {
+    "tango": "魅力",
+    "yomikata": "みりょく",
+    "imi": "매력"
+  },
+  {
+    "tango": "民謡",
+    "yomikata": "みんよう",
+    "imi": "민요"
+  },
+  {
+    "tango": "無限",
+    "yomikata": "むげん",
+    "imi": "무한"
+  },
+  {
+    "tango": "矛盾",
+    "yomikata": "むじゅん",
+    "imi": "모순"
+  },
+  {
+    "tango": "無数",
+    "yomikata": "むすう",
+    "imi": "무수"
+  },
+  {
+    "tango": "無責任",
+    "yomikata": "むせきにん",
+    "imi": "무책임"
+  },
+  {
+    "tango": "紫",
+    "yomikata": "むらさき",
+    "imi": "보라색"
+  },
+  {
+    "tango": "群れ",
+    "yomikata": "むれ",
+    "imi": "무리, 떼"
+  },
+  {
+    "tango": "芽",
+    "yomikata": "め",
+    "imi": "싹, 움"
+  },
+  {
+    "tango": "姪",
+    "yomikata": "めい",
+    "imi": "조카딸"
+  },
+  {
+    "tango": "名所",
+    "yomikata": "めいしょ",
+    "imi": "명소"
+  },
+  {
+    "tango": "迷信",
+    "yomikata": "めいしん",
+    "imi": "미신"
+  },
+  {
+    "tango": "名物",
+    "yomikata": "めいぶつ",
+    "imi": "명물"
+  },
+  {
+    "tango": "命令",
+    "yomikata": "めいれい",
+    "imi": "명령"
+  },
+  {
+    "tango": "迷路",
+    "yomikata": "めいろ",
+    "imi": "미로"
+  },
+  {
+    "tango": "目印",
+    "yomikata": "めじるし",
+    "imi": "표시, 목표물"
+  },
+  {
+    "tango": "目安",
+    "yomikata": "めやす",
+    "imi": "기준, 목표"
+  },
+  {
+    "tango": "面",
+    "yomikata": "めん",
+    "imi": "얼굴, 면, 표면"
+  },
+  {
+    "tango": "免疫",
+    "yomikata": "めんえき",
+    "imi": "면역, 익숙함"
+  },
+  {
+    "tango": "面積",
+    "yomikata": "めんせき",
+    "imi": "면적"
+  },
+  {
+    "tango": "木材",
+    "yomikata": "もくざい",
+    "imi": "목재"
+  },
+  {
+    "tango": "目次",
+    "yomikata": "もくじ",
+    "imi": "목차"
+  },
+  {
+    "tango": "木製",
+    "yomikata": "もくせい",
+    "imi": "목제"
+  },
+  {
+    "tango": "木造",
+    "yomikata": "もくぞう",
+    "imi": "목조"
+  },
+  {
+    "tango": "餅",
+    "yomikata": "もち",
+    "imi": "떡"
+  },
+  {
+    "tango": "持ち主",
+    "yomikata": "もちぬし",
+    "imi": "소유자"
+  },
+  {
+    "tango": "元",
+    "yomikata": "もと",
+    "imi": "원래"
+  },
+  {
+    "tango": "物音",
+    "yomikata": "ものおと",
+    "imi": "소리"
+  },
+  {
+    "tango": "物事",
+    "yomikata": "ものごと",
+    "imi": "사물, 매사, 세상사"
+  },
+  {
+    "tango": "物差し",
+    "yomikata": "ものさし",
+    "imi": "기준, 척도"
+  },
+  {
+    "tango": "模範",
+    "yomikata": "もはん",
+    "imi": "모범"
+  },
+  {
+    "tango": "紅葉",
+    "yomikata": "もみじ",
+    "imi": "단풍(こうよう로도 읽음)"
+  },
+  {
+    "tango": "催し",
+    "yomikata": "もよおし",
+    "imi": "모임, 행사, 이벤트, 기획"
+  },
+  {
+    "tango": "問答",
+    "yomikata": "もんどう",
+    "imi": "문답"
+  },
+  {
+    "tango": "やかん",
+    "yomikata": "",
+    "imi": "주전자"
+  },
+  {
+    "tango": "焼き物",
+    "yomikata": "やきもの",
+    "imi": "① 도자기   ② 구이 요리"
+  },
+  {
+    "tango": "役者",
+    "yomikata": "やくしゃ",
+    "imi": "배우"
+  },
+  {
+    "tango": "役所",
+    "yomikata": "やくしょ",
+    "imi": "관공서"
+  },
+  {
+    "tango": "役人",
+    "yomikata": "やくにん",
+    "imi": "관리, 공무원"
+  },
+  {
+    "tango": "薬品",
+    "yomikata": "やくひん",
+    "imi": "약품"
+  },
+  {
+    "tango": "役目",
+    "yomikata": "やくめ",
+    "imi": "역할, 임무"
+  },
+  {
+    "tango": "役割",
+    "yomikata": "やくわり",
+    "imi": "역할, 임무"
+  },
+  {
+    "tango": "矢印",
+    "yomikata": "やじるし",
+    "imi": "화살표"
+  },
+  {
+    "tango": "野生",
+    "yomikata": "やせい",
+    "imi": "야생"
+  },
+  {
+    "tango": "宿",
+    "yomikata": "やど",
+    "imi": "숙소"
+  },
+  {
+    "tango": "家主",
+    "yomikata": "やぬし",
+    "imi": "집주인, 가장"
+  },
+  {
+    "tango": "屋根",
+    "yomikata": "やね",
+    "imi": "지붕"
+  },
+  {
+    "tango": "山火事",
+    "yomikata": "やまかじ",
+    "imi": "산불"
+  },
+  {
+    "tango": "山小屋",
+    "yomikata": "やまごや",
+    "imi": "오두막"
+  },
+  {
+    "tango": "唯一",
+    "yomikata": "ゆいいつ",
+    "imi": "유일"
+  },
+  {
+    "tango": "遺言",
+    "yomikata": "ゆいごん",
+    "imi": "유언"
+  },
+  {
+    "tango": "遊園地",
+    "yomikata": "ゆうえんち",
+    "imi": "유원지"
+  },
+  {
+    "tango": "夕刊",
+    "yomikata": "ゆうかん",
+    "imi": "석간, 석간 신문"
+  },
+  {
+    "tango": "有効",
+    "yomikata": "ゆうこう",
+    "imi": "유효"
+  },
+  {
+    "tango": "優勝",
+    "yomikata": "ゆうしょう",
+    "imi": "우승"
+  },
+  {
+    "tango": "優良",
+    "yomikata": "ゆうりょう",
+    "imi": "우량"
+  },
+  {
+    "tango": "浴衣",
+    "yomikata": "ゆかた",
+    "imi": "유카타, 면 홑옷"
+  },
+  {
+    "tango": "行き止まり",
+    "yomikata": "ゆきどまり",
+    "imi": "막다른 곳(いきどまり로도 읽음)"
+  },
+  {
+    "tango": "行方",
+    "yomikata": "ゆくえ",
+    "imi": "행방, 행선지"
+  },
+  {
+    "tango": "湯気",
+    "yomikata": "ゆげ",
+    "imi": "김, 증기"
+  },
+  {
+    "tango": "輸血",
+    "yomikata": "ゆけつ",
+    "imi": "수혈"
+  },
+  {
+    "tango": "輸送",
+    "yomikata": "ゆそう",
+    "imi": "수송"
+  },
+  {
+    "tango": "油断",
+    "yomikata": "ゆだん",
+    "imi": "방심, 부주의"
+  },
+  {
+    "tango": "湯飲み",
+    "yomikata": "ゆのみ",
+    "imi": "찻잔"
+  },
+  {
+    "tango": "溶岩",
+    "yomikata": "ようがん",
+    "imi": "용암"
+  },
+  {
+    "tango": "用語",
+    "yomikata": "ようご",
+    "imi": "용어"
+  },
+  {
+    "tango": "用紙",
+    "yomikata": "ようし",
+    "imi": "용지"
+  },
+  {
+    "tango": "容姿",
+    "yomikata": "ようし",
+    "imi": "용모와 자태, 얼굴과 몸매"
+  },
+  {
+    "tango": "用心",
+    "yomikata": "ようじん",
+    "imi": "조심, 주의"
+  },
+  {
+    "tango": "様子",
+    "yomikata": "ようす",
+    "imi": "모습"
+  },
+  {
+    "tango": "容積",
+    "yomikata": "ようせき",
+    "imi": "용적, 용량, 부피"
+  },
+  {
+    "tango": "要素",
+    "yomikata": "ようそ",
+    "imi": "요소"
+  },
+  {
+    "tango": "要点",
+    "yomikata": "ようてん",
+    "imi": "요점"
+  },
+  {
+    "tango": "養分",
+    "yomikata": "ようぶん",
+    "imi": "양분"
+  },
+  {
+    "tango": "羊毛",
+    "yomikata": "ようもう",
+    "imi": "양모, 양털"
+  },
+  {
+    "tango": "要領",
+    "yomikata": "ようりょう",
+    "imi": "요령"
+  },
+  {
+    "tango": "予感",
+    "yomikata": "よかん",
+    "imi": "예감"
+  },
+  {
+    "tango": "予期",
+    "yomikata": "よき",
+    "imi": "예기, 미리 기대함"
+  },
+  {
+    "tango": "予告",
+    "yomikata": "よこく",
+    "imi": "예고"
+  },
+  {
+    "tango": "横道",
+    "yomikata": "よこみち",
+    "imi": "옆길, 샛길"
+  },
+  {
+    "tango": "予選",
+    "yomikata": "よせん",
+    "imi": "예선"
+  },
+  {
+    "tango": "酔っ払い",
+    "yomikata": "よっぱらい",
+    "imi": "술꾼, 술주정뱅이, 취객"
+  },
+  {
+    "tango": "与党",
+    "yomikata": "よとう",
+    "imi": "여당"
+  },
+  {
+    "tango": "予備",
+    "yomikata": "よび",
+    "imi": "예비"
+  },
+  {
+    "tango": "予備校",
+    "yomikata": "よびこう",
+    "imi": "입시학원"
+  },
+  {
+    "tango": "余分",
+    "yomikata": "よぶん",
+    "imi": "여분, 나머지"
+  },
+  {
+    "tango": "嫁",
+    "yomikata": "よめ",
+    "imi": "며느리, 신부"
+  },
+  {
+    "tango": "余裕",
+    "yomikata": "よゆう",
+    "imi": "여유"
+  },
+  {
+    "tango": "弱気",
+    "yomikata": "よわき",
+    "imi": "연약함, 무기력함"
+  },
+  {
+    "tango": "弱み",
+    "yomikata": "よわみ",
+    "imi": "약점"
+  },
+  {
+    "tango": "来日",
+    "yomikata": "らいにち",
+    "imi": "일본 방문, 방일"
+  },
+  {
+    "tango": "落選",
+    "yomikata": "らくせん",
+    "imi": "낙선"
+  },
+  {
+    "tango": "落第",
+    "yomikata": "らくだい",
+    "imi": "낙제, 낙방, 유급"
+  },
+  {
+    "tango": "欄",
+    "yomikata": "らん",
+    "imi": "란, 칸"
+  },
+  {
+    "tango": "利益",
+    "yomikata": "りえき",
+    "imi": "이익, 이득"
+  },
+  {
+    "tango": "利害",
+    "yomikata": "りがい",
+    "imi": "이해, 득실"
+  },
+  {
+    "tango": "陸地",
+    "yomikata": "りくち",
+    "imi": "육지"
+  },
+  {
+    "tango": "理事会",
+    "yomikata": "りじかい",
+    "imi": "이사회"
+  },
+  {
+    "tango": "流域",
+    "yomikata": "りゅういき",
+    "imi": "유역"
+  },
+  {
+    "tango": "漁師",
+    "yomikata": "りょうし",
+    "imi": "어부"
+  },
+  {
+    "tango": "領事",
+    "yomikata": "りょうじ",
+    "imi": "영사, 외국에서 자국민을 보호하는 공무원"
+  },
+  {
+    "tango": "領収",
+    "yomikata": "りょうしゅう",
+    "imi": "영수, (돈이나 물건을) 받음"
+  },
+  {
+    "tango": "臨時",
+    "yomikata": "りんじ",
+    "imi": "임시"
+  },
+  {
+    "tango": "礼儀",
+    "yomikata": "れいぎ",
+    "imi": "예의"
+  },
+  {
+    "tango": "零点",
+    "yomikata": "れいてん",
+    "imi": "영점, 어는 점"
+  },
+  {
+    "tango": "列島",
+    "yomikata": "れっとう",
+    "imi": "열도"
+  },
+  {
+    "tango": "連合",
+    "yomikata": "れんごう",
+    "imi": "연합"
+  },
+  {
+    "tango": "連想",
+    "yomikata": "れんそう",
+    "imi": "연상"
+  },
+  {
+    "tango": "連続",
+    "yomikata": "れんぞく",
+    "imi": "연속"
+  },
+  {
+    "tango": "ろうそく",
+    "yomikata": "",
+    "imi": "초, 양초"
+  },
+  {
+    "tango": "労働",
+    "yomikata": "ろうどう",
+    "imi": "노동"
+  },
+  {
+    "tango": "露出",
+    "yomikata": "ろしゅつ",
+    "imi": "노출"
+  },
+  {
+    "tango": "路線",
+    "yomikata": "ろせん",
+    "imi": "노선"
+  },
+  {
+    "tango": "論争",
+    "yomikata": "ろんそう",
+    "imi": "논쟁"
+  },
+  {
+    "tango": "論文",
+    "yomikata": "ろんぶん",
+    "imi": "논문"
+  },
+  {
+    "tango": "和",
+    "yomikata": "わ",
+    "imi": "일본식의~ 和食 일식"
+  },
+  {
+    "tango": "脇",
+    "yomikata": "わき",
+    "imi": "① 겨드랑이, 옆구리   ② 옆"
+  },
+  {
+    "tango": "若人",
+    "yomikata": "わこうど",
+    "imi": "젊은이, 청년"
+  },
+  {
+    "tango": "綿",
+    "yomikata": "わた",
+    "imi": "솜, 목화"
+  },
+  {
+    "tango": "和服",
+    "yomikata": "わふく",
+    "imi": "일본식 옷"
+  },
+  {
+    "tango": "割り勘",
+    "yomikata": "わりかん",
+    "imi": "각자 부담, 각출"
+  },
+  {
+    "tango": "割高",
+    "yomikata": "わりだか",
+    "imi": "품질이나 양에 비해 비쌈, 가성비가 나쁨"
+  },
+  {
+    "tango": "割安",
+    "yomikata": "わりやす",
+    "imi": "품질이나 양에 비해 쌈, 가성비가 좋음"
+  },
+  {
+    "tango": "悪口",
+    "yomikata": "わるくち, わるぐち",
+    "imi": "욕, 욕설"
+  },
+  {
+    "tango": "我々",
+    "yomikata": "われわれ",
+    "imi": "우리들"
+  },
+  {
+    "tango": "湾",
+    "yomikata": "わん",
+    "imi": "만, 항만"
+  },
+  {
+    "tango": "アクセント",
+    "yomikata": "",
+    "imi": "악센트, 어조"
+  },
+  {
+    "tango": "インテリア",
+    "yomikata": "",
+    "imi": "인테리어"
+  },
+  {
+    "tango": "ウイスキー",
+    "yomikata": "",
+    "imi": "위스키"
+  },
+  {
+    "tango": "ウール",
+    "yomikata": "",
+    "imi": "울, 모직"
+  },
+  {
+    "tango": "エチケット",
+    "yomikata": "",
+    "imi": "에티켓"
+  },
+  {
+    "tango": "オーケストラ",
+    "yomikata": "",
+    "imi": "오케스트라"
+  },
+  {
+    "tango": "オートメーション",
+    "yomikata": "",
+    "imi": "오토메이션, 자동화"
+  },
+  {
+    "tango": "オーバー",
+    "yomikata": "",
+    "imi": "오버, 초과"
+  },
+  {
+    "tango": "オリンピック",
+    "yomikata": "",
+    "imi": "올림픽"
+  },
+  {
+    "tango": "カー",
+    "yomikata": "",
+    "imi": "자동차"
+  },
+  {
+    "tango": "キャプテン",
+    "yomikata": "",
+    "imi": "캡틴, 주장, 선장"
+  },
+  {
+    "tango": "クラシック",
+    "yomikata": "",
+    "imi": "클래식, 고전"
+  },
+  {
+    "tango": "クラブ",
+    "yomikata": "",
+    "imi": "클럽"
+  },
+  {
+    "tango": "グランド",
+    "yomikata": "",
+    "imi": "그랜드, 대규모의, 대형의"
+  },
+  {
+    "tango": "クリーム",
+    "yomikata": "",
+    "imi": "크림"
+  },
+  {
+    "tango": "クリスマス",
+    "yomikata": "",
+    "imi": "크리스마스"
+  },
+  {
+    "tango": "コース",
+    "yomikata": "",
+    "imi": "코스"
+  },
+  {
+    "tango": "コーチ",
+    "yomikata": "",
+    "imi": "코치, 지도, 지도자"
+  },
+  {
+    "tango": "コール",
+    "yomikata": "",
+    "imi": "콜, 호출"
+  },
+  {
+    "tango": "コック",
+    "yomikata": "",
+    "imi": "요리사"
+  },
+  {
+    "tango": "コミュニケーション",
+    "yomikata": "",
+    "imi": "커뮤니케이션, 의사소통"
+  },
+  {
+    "tango": "コレクション",
+    "yomikata": "",
+    "imi": "컬렉션, 수집"
+  },
+  {
+    "tango": "コンクール",
+    "yomikata": "",
+    "imi": "경연대회, 콩쿠르"
+  },
+  {
+    "tango": "コンクリート",
+    "yomikata": "",
+    "imi": "콘크리트"
+  },
+  {
+    "tango": "サークル",
+    "yomikata": "",
+    "imi": "써클, 동호회"
+  },
+  {
+    "tango": "サイレン",
+    "yomikata": "",
+    "imi": "사이렌"
+  },
+  {
+    "tango": "シーズン",
+    "yomikata": "",
+    "imi": "시즌, 계절, 철"
+  },
+  {
+    "tango": "ジーンズ",
+    "yomikata": "",
+    "imi": "청바지"
+  },
+  {
+    "tango": "ジャーナリスト",
+    "yomikata": "",
+    "imi": "저널리스트, 언론인"
+  },
+  {
+    "tango": "シャッター",
+    "yomikata": "",
+    "imi": "셔터, 덧문"
+  },
+  {
+    "tango": "ジョギング",
+    "yomikata": "",
+    "imi": "조깅"
+  },
+  {
+    "tango": "シリーズ",
+    "yomikata": "",
+    "imi": "시리즈"
+  },
+  {
+    "tango": "スープ",
+    "yomikata": "",
+    "imi": "수프"
+  },
+  {
+    "tango": "スキー",
+    "yomikata": "",
+    "imi": "스키"
+  },
+  {
+    "tango": "スタート",
+    "yomikata": "",
+    "imi": "스타트, 시작, 출발"
+  },
+  {
+    "tango": "ステージ",
+    "yomikata": "",
+    "imi": "스테이지, 무대"
+  },
+  {
+    "tango": "スペース",
+    "yomikata": "",
+    "imi": "스페이스, 공간"
+  },
+  {
+    "tango": "スポンサー",
+    "yomikata": "",
+    "imi": "스폰서, 광고주, 후원자"
+  },
+  {
+    "tango": "スムーズ",
+    "yomikata": "",
+    "imi": "원활함, 순조로움"
+  },
+  {
+    "tango": "ゼミ",
+    "yomikata": "",
+    "imi": "세미나, 연구회, 토론회"
+  },
+  {
+    "tango": "セメント",
+    "yomikata": "",
+    "imi": "시멘트"
+  },
+  {
+    "tango": "タイヤ",
+    "yomikata": "",
+    "imi": "타이어"
+  },
+  {
+    "tango": "ダイヤ",
+    "yomikata": "",
+    "imi": "다이아몬드, 다이어그램, 시간표"
+  },
+  {
+    "tango": "チーズ",
+    "yomikata": "",
+    "imi": "치즈"
+  },
+  {
+    "tango": "チーム",
+    "yomikata": "",
+    "imi": "팀"
+  },
+  {
+    "tango": "チェンジ",
+    "yomikata": "",
+    "imi": "체인지, 교체"
+  },
+  {
+    "tango": "デザイン",
+    "yomikata": "",
+    "imi": "디자인"
+  },
+  {
+    "tango": "テント",
+    "yomikata": "",
+    "imi": "텐트"
+  },
+  {
+    "tango": "テンポ",
+    "yomikata": "",
+    "imi": "템포"
+  },
+  {
+    "tango": "トランプ",
+    "yomikata": "",
+    "imi": "트럼프"
+  },
+  {
+    "tango": "ナイロン",
+    "yomikata": "",
+    "imi": "나일론"
+  },
+  {
+    "tango": "ナンバー",
+    "yomikata": "",
+    "imi": "넘버, 숫자"
+  },
+  {
+    "tango": "バイオリン",
+    "yomikata": "",
+    "imi": "바이올린"
+  },
+  {
+    "tango": "パイプ",
+    "yomikata": "",
+    "imi": "파이프"
+  },
+  {
+    "tango": "パイロット",
+    "yomikata": "",
+    "imi": "파일럿, 조종사"
+  },
+  {
+    "tango": "パターン",
+    "yomikata": "",
+    "imi": "패턴, 유형"
+  },
+  {
+    "tango": "バッグ",
+    "yomikata": "",
+    "imi": "백, 가방"
+  },
+  {
+    "tango": "バランス",
+    "yomikata": "",
+    "imi": "밸런스, 균형"
+  },
+  {
+    "tango": "パンク",
+    "yomikata": "",
+    "imi": "펑크, 파열"
+  },
+  {
+    "tango": "パンツ",
+    "yomikata": "",
+    "imi": "팬츠, 바지"
+  },
+  {
+    "tango": "ハンドル",
+    "yomikata": "",
+    "imi": "핸들, 손잡이, 운전대"
+  },
+  {
+    "tango": "ピストル",
+    "yomikata": "",
+    "imi": "피스톨, 권총"
+  },
+  {
+    "tango": "ビニール",
+    "yomikata": "",
+    "imi": "비닐"
+  },
+  {
+    "tango": "ピンポン",
+    "yomikata": "",
+    "imi": "탁구"
+  },
+  {
+    "tango": "ブーム",
+    "yomikata": "",
+    "imi": "붐, 유행"
+  },
+  {
+    "tango": "フライパン",
+    "yomikata": "",
+    "imi": "프라이팬"
+  },
+  {
+    "tango": "プラスチック",
+    "yomikata": "",
+    "imi": "플라스틱"
+  },
+  {
+    "tango": "プラットホーム",
+    "yomikata": "",
+    "imi": "플랫폼"
+  },
+  {
+    "tango": "フリー",
+    "yomikata": "",
+    "imi": "프리함, 자유로움, 공짜, 무료"
+  },
+  {
+    "tango": "フルーツ",
+    "yomikata": "",
+    "imi": "과일"
+  },
+  {
+    "tango": "プロ",
+    "yomikata": "",
+    "imi": "프로, 전문적, 전문가"
+  },
+  {
+    "tango": "ブローチ",
+    "yomikata": "",
+    "imi": "브로치"
+  },
+  {
+    "tango": "プログラム",
+    "yomikata": "",
+    "imi": "프로그램"
+  },
+  {
+    "tango": "ベテラン",
+    "yomikata": "",
+    "imi": "베테랑, 숙련자, 전문가"
+  },
+  {
+    "tango": "ヘリコプター",
+    "yomikata": "",
+    "imi": "헬리콥터"
+  },
+  {
+    "tango": "ペンキ",
+    "yomikata": "",
+    "imi": "페인트"
+  },
+  {
+    "tango": "ベンチ",
+    "yomikata": "",
+    "imi": "벤치"
+  },
+  {
+    "tango": "ホームステイ",
+    "yomikata": "",
+    "imi": "홈스테이"
+  },
+  {
+    "tango": "マーケット",
+    "yomikata": "",
+    "imi": "마켓, 시장"
+  },
+  {
+    "tango": "マイク",
+    "yomikata": "",
+    "imi": "마이크"
+  },
+  {
+    "tango": "マイペース",
+    "yomikata": "",
+    "imi": "마이 페이스"
+  },
+  {
+    "tango": "マスター",
+    "yomikata": "",
+    "imi": "마스터, 숙달함"
+  },
+  {
+    "tango": "ミシン",
+    "yomikata": "",
+    "imi": "미싱, 재봉틀"
+  },
+  {
+    "tango": "メモ",
+    "yomikata": "",
+    "imi": "메모"
+  },
+  {
+    "tango": "メリット",
+    "yomikata": "",
+    "imi": "메리트, 장점"
+  },
+  {
+    "tango": "モーター",
+    "yomikata": "",
+    "imi": "모터, 전동기"
+  },
+  {
+    "tango": "モダン",
+    "yomikata": "",
+    "imi": "모던, 현대적"
+  },
+  {
+    "tango": "モデル",
+    "yomikata": "",
+    "imi": "모델"
+  },
+  {
+    "tango": "モノレール",
+    "yomikata": "",
+    "imi": "모노레일"
+  },
+  {
+    "tango": "ヨット",
+    "yomikata": "",
+    "imi": "요트"
+  },
+  {
+    "tango": "ライター",
+    "yomikata": "",
+    "imi": "라이터, 점화기"
+  },
+  {
+    "tango": "ラケット",
+    "yomikata": "",
+    "imi": "라켓"
+  },
+  {
+    "tango": "ラッシュアワー",
+    "yomikata": "",
+    "imi": "러시아워"
+  },
+  {
+    "tango": "リズム",
+    "yomikata": "",
+    "imi": "리듬"
+  },
+  {
+    "tango": "リハーサル",
+    "yomikata": "",
+    "imi": "리허설, 예행 연습"
+  },
+  {
+    "tango": "リラックス",
+    "yomikata": "",
+    "imi": "릴랙스, 긴장 완화"
+  },
+  {
+    "tango": "レクリエーション",
+    "yomikata": "",
+    "imi": "레크리에이션, 오락"
+  },
+  {
+    "tango": "レジャー",
+    "yomikata": "",
+    "imi": "레저, 여가"
+  },
+  {
+    "tango": "レポーター",
+    "yomikata": "",
+    "imi": "리포터, 보고자"
+  },
+  {
+    "tango": "レンタル",
+    "yomikata": "",
+    "imi": "렌탈, 대여"
+  },
+  {
+    "tango": "ロケット",
+    "yomikata": "",
+    "imi": "로켓"
+  },
+  {
+    "tango": "ロッカー",
+    "yomikata": "",
+    "imi": "로커, 자물쇠가 있는 수납장"
+  },
+  {
+    "tango": "ワイン",
+    "yomikata": "",
+    "imi": "와인, 포도주"
+  }
+]

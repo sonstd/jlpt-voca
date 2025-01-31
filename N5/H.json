@@ -1,0 +1,397 @@
+[
+  {
+    "tango": "青い",
+    "yomikata": "あおい",
+    "imi": "푸르다, 파랗다"
+  },
+  {
+    "tango": "赤い",
+    "yomikata": "あかい",
+    "imi": "붉다, 빨갛다"
+  },
+  {
+    "tango": "明るい",
+    "yomikata": "あかるい",
+    "imi": "밝다"
+  },
+  {
+    "tango": "暗い",
+    "yomikata": "くらい",
+    "imi": "어둡다"
+  },
+  {
+    "tango": "暖かい",
+    "yomikata": "あたたかい",
+    "imi": "따뜻하다"
+  },
+  {
+    "tango": "新しい",
+    "yomikata": "あたらしい",
+    "imi": "새롭다"
+  },
+  {
+    "tango": "暑い",
+    "yomikata": "あつい",
+    "imi": "덥다"
+  },
+  {
+    "tango": "危ない",
+    "yomikata": "あぶない",
+    "imi": "위험하다"
+  },
+  {
+    "tango": "甘い",
+    "yomikata": "あまい",
+    "imi": "달다, 싱겁다"
+  },
+  {
+    "tango": "良い",
+    "yomikata": "いい, よい",
+    "imi": "좋다"
+  },
+  {
+    "tango": "忙しい",
+    "yomikata": "いそがしい",
+    "imi": "바쁘다"
+  },
+  {
+    "tango": "痛い",
+    "yomikata": "いたい",
+    "imi": "아프다"
+  },
+  {
+    "tango": "薄い",
+    "yomikata": "うすい",
+    "imi": "얇다"
+  },
+  {
+    "tango": "煩い",
+    "yomikata": "うるさい",
+    "imi": "시끄럽다"
+  },
+  {
+    "tango": "美味しい",
+    "yomikata": "おいしい",
+    "imi": "맛있다"
+  },
+  {
+    "tango": "多い",
+    "yomikata": "おおい",
+    "imi": "많다"
+  },
+  {
+    "tango": "大きい",
+    "yomikata": "おおきい",
+    "imi": "크다"
+  },
+  {
+    "tango": "遅い",
+    "yomikata": "おそい",
+    "imi": "늦다, 느리다"
+  },
+  {
+    "tango": "重い",
+    "yomikata": "おもい",
+    "imi": "무겁다"
+  },
+  {
+    "tango": "面白い",
+    "yomikata": "おもしろい",
+    "imi": "재미있다"
+  },
+  {
+    "tango": "辛い",
+    "yomikata": "からい",
+    "imi": "맵다"
+  },
+  {
+    "tango": "軽い",
+    "yomikata": "かるい",
+    "imi": "가볍다"
+  },
+  {
+    "tango": "可愛い",
+    "yomikata": "かわいい",
+    "imi": "귀엽다"
+  },
+  {
+    "tango": "黄色い",
+    "yomikata": "きいろい",
+    "imi": "노랗다"
+  },
+  {
+    "tango": "汚い",
+    "yomikata": "きたない",
+    "imi": "더럽다"
+  },
+  {
+    "tango": "黒い",
+    "yomikata": "くろい",
+    "imi": "검다, 까맣다"
+  },
+  {
+    "tango": "白い",
+    "yomikata": "しろい",
+    "imi": "희다, 하얗다"
+  },
+  {
+    "tango": "寒い",
+    "yomikata": "さむい",
+    "imi": "춥다"
+  },
+  {
+    "tango": "少ない",
+    "yomikata": "すくない",
+    "imi": "적다"
+  },
+  {
+    "tango": "狭い",
+    "yomikata": "せまい",
+    "imi": "좁다"
+  },
+  {
+    "tango": "高い",
+    "yomikata": "たかい",
+    "imi": "높다, 비싸다"
+  },
+  {
+    "tango": "楽しい",
+    "yomikata": "たのしい",
+    "imi": "즐겁다"
+  },
+  {
+    "tango": "小さい",
+    "yomikata": "ちいさい",
+    "imi": "작다"
+  },
+  {
+    "tango": "近い",
+    "yomikata": "ちかい",
+    "imi": "가깝다"
+  },
+  {
+    "tango": "詰まらない",
+    "yomikata": "つまらない",
+    "imi": "재미없다, 시시하다"
+  },
+  {
+    "tango": "強い",
+    "yomikata": "つよい",
+    "imi": "강하다"
+  },
+  {
+    "tango": "遠い",
+    "yomikata": "とおい",
+    "imi": "멀다"
+  },
+  {
+    "tango": "無い",
+    "yomikata": "ない",
+    "imi": "없다"
+  },
+  {
+    "tango": "長い",
+    "yomikata": "ながい",
+    "imi": "길다"
+  },
+  {
+    "tango": "早い",
+    "yomikata": "はやい",
+    "imi": "(시간적으로) 이르다"
+  },
+  {
+    "tango": "速い",
+    "yomikata": "はやい",
+    "imi": "빠르다"
+  },
+  {
+    "tango": "低い",
+    "yomikata": "ひくい",
+    "imi": "낮다"
+  },
+  {
+    "tango": "広い",
+    "yomikata": "ひろい",
+    "imi": "넓다"
+  },
+  {
+    "tango": "古い",
+    "yomikata": "ふるい",
+    "imi": "낡다, 오래되다"
+  },
+  {
+    "tango": "不味い",
+    "yomikata": "まずい",
+    "imi": "맛없다"
+  },
+  {
+    "tango": "丸い",
+    "yomikata": "まるい",
+    "imi": "둥글다"
+  },
+  {
+    "tango": "短い",
+    "yomikata": "みじかい",
+    "imi": "짧다"
+  },
+  {
+    "tango": "難しい",
+    "yomikata": "むずかしい",
+    "imi": "어렵다"
+  },
+  {
+    "tango": "安い",
+    "yomikata": "やすい",
+    "imi": "(값이) 싸다, (마음이) 편하다."
+  },
+  {
+    "tango": "弱い",
+    "yomikata": "よわい",
+    "imi": "약하다"
+  },
+  {
+    "tango": "若い",
+    "yomikata": "わかい",
+    "imi": "젊다, 어리다"
+  },
+  {
+    "tango": "悪い",
+    "yomikata": "わるい",
+    "imi": "나쁘다"
+  },
+  {
+    "tango": "暇な",
+    "yomikata": "ひまな",
+    "imi": "한가한"
+  },
+  {
+    "tango": "厚い",
+    "yomikata": "あつい",
+    "imi": "두껍다"
+  },
+  {
+    "tango": "あんな",
+    "yomikata": "",
+    "imi": "저런"
+  },
+  {
+    "tango": "嫌な",
+    "yomikata": "いやな",
+    "imi": "싫은"
+  },
+  {
+    "tango": "色々",
+    "yomikata": "いろいろ",
+    "imi": "여러가지, 갖가지"
+  },
+  {
+    "tango": "大きな",
+    "yomikata": "おおきな",
+    "imi": "큰, 커다란"
+  },
+  {
+    "tango": "同じ",
+    "yomikata": "おなじ",
+    "imi": "같은"
+  },
+  {
+    "tango": "簡単な",
+    "yomikata": "かんたんな",
+    "imi": "간단한"
+  },
+  {
+    "tango": "嫌いな",
+    "yomikata": "きらいな",
+    "imi": "싫어하는"
+  },
+  {
+    "tango": "好きな",
+    "yomikata": "すきな",
+    "imi": "좋아하는"
+  },
+  {
+    "tango": "綺麗な",
+    "yomikata": "きれいな",
+    "imi": "예쁜, 깨끗한"
+  },
+  {
+    "tango": "元気な",
+    "yomikata": "げんきな",
+    "imi": "건강한, 잘 지내는"
+  },
+  {
+    "tango": "こんな",
+    "yomikata": "",
+    "imi": "이런"
+  },
+  {
+    "tango": "静かな",
+    "yomikata": "しずかな",
+    "imi": "조용한"
+  },
+  {
+    "tango": "上手な",
+    "yomikata": "じょうずな",
+    "imi": "능숙한"
+  },
+  {
+    "tango": "下手な",
+    "yomikata": "へたな",
+    "imi": "서툰"
+  },
+  {
+    "tango": "丈夫な",
+    "yomikata": "じょうぶな",
+    "imi": "튼튼한"
+  },
+  {
+    "tango": "そんな",
+    "yomikata": "",
+    "imi": "그런"
+  },
+  {
+    "tango": "大丈夫な",
+    "yomikata": "だいじょうぶな",
+    "imi": "괜찮은"
+  },
+  {
+    "tango": "大好きな",
+    "yomikata": "だいすきな",
+    "imi": "아주 좋아하는, 사랑하는"
+  },
+  {
+    "tango": "大変な",
+    "yomikata": "たいへんな",
+    "imi": "대단한, 힘든"
+  },
+  {
+    "tango": "小さな",
+    "yomikata": "ちいさな",
+    "imi": "작은"
+  },
+  {
+    "tango": "どんな",
+    "yomikata": "",
+    "imi": "어떤"
+  },
+  {
+    "tango": "賑やかな",
+    "yomikata": "にぎやかな",
+    "imi": "번화한, 떠들썩한"
+  },
+  {
+    "tango": "便利な",
+    "yomikata": "べんりな",
+    "imi": "편리한"
+  },
+  {
+    "tango": "不便な",
+    "yomikata": "ふべんな",
+    "imi": "불편한"
+  },
+  {
+    "tango": "有名な",
+    "yomikata": "ゆうめいな",
+    "imi": "유명한"
+  }
+]

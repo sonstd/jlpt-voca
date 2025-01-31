@@ -1,0 +1,407 @@
+[
+  {
+    "tango": "会う",
+    "yomikata": "あう",
+    "imi": "만나다"
+  },
+  {
+    "tango": "上がる",
+    "yomikata": "あがる",
+    "imi": "오르다, 올라가다"
+  },
+  {
+    "tango": "開く",
+    "yomikata": "あく, ひらく",
+    "imi": "열리다, 열다"
+  },
+  {
+    "tango": "開ける",
+    "yomikata": "あける, ひらける",
+    "imi": "열다, 열리다"
+  },
+  {
+    "tango": "上げる",
+    "yomikata": "あげる",
+    "imi": "올리다, 들다"
+  },
+  {
+    "tango": "あげる",
+    "yomikata": "",
+    "imi": "주다"
+  },
+  {
+    "tango": "遊ぶ",
+    "yomikata": "あそぶ",
+    "imi": "놀다"
+  },
+  {
+    "tango": "浴びる",
+    "yomikata": "あびる",
+    "imi": "(흠뻑)뒤집어쓰다, 쬐다"
+  },
+  {
+    "tango": "洗う",
+    "yomikata": "あらう",
+    "imi": "씻다"
+  },
+  {
+    "tango": "有る",
+    "yomikata": "ある",
+    "imi": "있다"
+  },
+  {
+    "tango": "歩く",
+    "yomikata": "あるく",
+    "imi": "걷다"
+  },
+  {
+    "tango": "言う",
+    "yomikata": "いう",
+    "imi": "말하다"
+  },
+  {
+    "tango": "行く",
+    "yomikata": "いく",
+    "imi": "가다"
+  },
+  {
+    "tango": "要る",
+    "yomikata": "いる",
+    "imi": "필요하다"
+  },
+  {
+    "tango": "居る",
+    "yomikata": "いる",
+    "imi": "(사람이)있다"
+  },
+  {
+    "tango": "入れる",
+    "yomikata": "いれる",
+    "imi": "넣다"
+  },
+  {
+    "tango": "歌う",
+    "yomikata": "うたう",
+    "imi": "노래하다"
+  },
+  {
+    "tango": "生まれる",
+    "yomikata": "うまれる",
+    "imi": "태어나다"
+  },
+  {
+    "tango": "売る",
+    "yomikata": "うる",
+    "imi": "팔다"
+  },
+  {
+    "tango": "起きる",
+    "yomikata": "おきる",
+    "imi": "일어나다"
+  },
+  {
+    "tango": "置く",
+    "yomikata": "おく",
+    "imi": "놓다, 두다"
+  },
+  {
+    "tango": "教える",
+    "yomikata": "おしえる",
+    "imi": "가르치다"
+  },
+  {
+    "tango": "押す",
+    "yomikata": "おす",
+    "imi": "누르다, 밀다"
+  },
+  {
+    "tango": "覚える",
+    "yomikata": "おぼえる",
+    "imi": "기억하다, 외우다"
+  },
+  {
+    "tango": "泳ぐ",
+    "yomikata": "およぐ",
+    "imi": "헤엄치다"
+  },
+  {
+    "tango": "降りる",
+    "yomikata": "おりる",
+    "imi": "내리다, 내려가다"
+  },
+  {
+    "tango": "終わる",
+    "yomikata": "おわる",
+    "imi": "끝나다"
+  },
+  {
+    "tango": "買う",
+    "yomikata": "かう",
+    "imi": "사다"
+  },
+  {
+    "tango": "返す",
+    "yomikata": "かえす",
+    "imi": "돌려주다, 되돌리다"
+  },
+  {
+    "tango": "帰る",
+    "yomikata": "かえる",
+    "imi": "돌아가다, 돌아오다"
+  },
+  {
+    "tango": "掛かる",
+    "yomikata": "かかる",
+    "imi": "(시간이)걸리다, (돈이)들다"
+  },
+  {
+    "tango": "書く",
+    "yomikata": "かく",
+    "imi": "(글 등을)쓰다"
+  },
+  {
+    "tango": "貸す",
+    "yomikata": "かす",
+    "imi": "빌려주다"
+  },
+  {
+    "tango": "被る",
+    "yomikata": "かぶる",
+    "imi": "(모자를)쓰다"
+  },
+  {
+    "tango": "借りる",
+    "yomikata": "かりる",
+    "imi": "빌리다"
+  },
+  {
+    "tango": "消える",
+    "yomikata": "きえる",
+    "imi": "사라지다, 꺼지다"
+  },
+  {
+    "tango": "聞く",
+    "yomikata": "きく",
+    "imi": "듣다, 묻다"
+  },
+  {
+    "tango": "来る",
+    "yomikata": "くる",
+    "imi": "오다"
+  },
+  {
+    "tango": "消す",
+    "yomikata": "けす",
+    "imi": "지우다, 끄다"
+  },
+  {
+    "tango": "答える",
+    "yomikata": "こたえる",
+    "imi": "대답하다"
+  },
+  {
+    "tango": "困る",
+    "yomikata": "こまる",
+    "imi": "곤란하다, 어려움을 겪다"
+  },
+  {
+    "tango": "咲く",
+    "yomikata": "さく",
+    "imi": "(꽃이)피다"
+  },
+  {
+    "tango": "死ぬ",
+    "yomikata": "しぬ",
+    "imi": "죽다"
+  },
+  {
+    "tango": "閉まる",
+    "yomikata": "しまる",
+    "imi": "닫히다"
+  },
+  {
+    "tango": "締める",
+    "yomikata": "しめる",
+    "imi": "(끈 등을)매다"
+  },
+  {
+    "tango": "閉める",
+    "yomikata": "しめる",
+    "imi": "닫다"
+  },
+  {
+    "tango": "吸う",
+    "yomikata": "すう",
+    "imi": "들이마시다"
+  },
+  {
+    "tango": "住む",
+    "yomikata": "すむ",
+    "imi": "살다, 거주하다"
+  },
+  {
+    "tango": "する",
+    "yomikata": "",
+    "imi": "하다"
+  },
+  {
+    "tango": "座る",
+    "yomikata": "すわる",
+    "imi": "앉다"
+  },
+  {
+    "tango": "出す",
+    "yomikata": "だす",
+    "imi": "꺼내다"
+  },
+  {
+    "tango": "立つ",
+    "yomikata": "たつ",
+    "imi": "서다, 일어서다"
+  },
+  {
+    "tango": "食べる",
+    "yomikata": "たべる",
+    "imi": "먹다"
+  },
+  {
+    "tango": "使う",
+    "yomikata": "つかう",
+    "imi": "사용하다"
+  },
+  {
+    "tango": "作る",
+    "yomikata": "つくる",
+    "imi": "만들다"
+  },
+  {
+    "tango": "出掛ける",
+    "yomikata": "でかける",
+    "imi": "나가다, 외출하다"
+  },
+  {
+    "tango": "出る",
+    "yomikata": "",
+    "imi": "나오다, 나가다"
+  },
+  {
+    "tango": "飛ぶ",
+    "yomikata": "とぶ",
+    "imi": "날다"
+  },
+  {
+    "tango": "撮る",
+    "yomikata": "とる",
+    "imi": "(사진, 영상을)찍다"
+  },
+  {
+    "tango": "習う",
+    "yomikata": "ならう",
+    "imi": "배우다"
+  },
+  {
+    "tango": "並べる",
+    "yomikata": "ならべる",
+    "imi": "늘어놓다, 진열하다"
+  },
+  {
+    "tango": "寝る",
+    "yomikata": "ねる",
+    "imi": "자다"
+  },
+  {
+    "tango": "登る",
+    "yomikata": "のぼる",
+    "imi": "오르다"
+  },
+  {
+    "tango": "飲む",
+    "yomikata": "のむ",
+    "imi": "마시다"
+  },
+  {
+    "tango": "乗る",
+    "yomikata": "のる",
+    "imi": "(교통수단에)타다"
+  },
+  {
+    "tango": "入る",
+    "yomikata": "はいる",
+    "imi": "들어가다, 들어오다"
+  },
+  {
+    "tango": "始まる",
+    "yomikata": "はじまる",
+    "imi": "시작되다"
+  },
+  {
+    "tango": "話す",
+    "yomikata": "はなす",
+    "imi": "이야기하다"
+  },
+  {
+    "tango": "弾く",
+    "yomikata": "ひく",
+    "imi": "연주하다"
+  },
+  {
+    "tango": "降る",
+    "yomikata": "ふる",
+    "imi": "(눈, 비가)내리다"
+  },
+  {
+    "tango": "曲がる",
+    "yomikata": "まがる",
+    "imi": "구부러지다"
+  },
+  {
+    "tango": "待つ",
+    "yomikata": "まつ",
+    "imi": "기다리다"
+  },
+  {
+    "tango": "磨く",
+    "yomikata": "みがく",
+    "imi": "닦다"
+  },
+  {
+    "tango": "見せる",
+    "yomikata": "みせる",
+    "imi": "보여주다"
+  },
+  {
+    "tango": "見る",
+    "yomikata": "みる",
+    "imi": "보다"
+  },
+  {
+    "tango": "持つ",
+    "yomikata": "もつ",
+    "imi": "들다, 가지다, 소유하다"
+  },
+  {
+    "tango": "もらう",
+    "yomikata": "",
+    "imi": "받다"
+  },
+  {
+    "tango": "休む",
+    "yomikata": "やすむ",
+    "imi": "쉬다"
+  },
+  {
+    "tango": "呼ぶ",
+    "yomikata": "よぶ",
+    "imi": "초대하다, 부르다"
+  },
+  {
+    "tango": "読む",
+    "yomikata": "よむ",
+    "imi": "읽다"
+  },
+  {
+    "tango": "分かる",
+    "yomikata": "わかる",
+    "imi": "알다"
+  }
+]

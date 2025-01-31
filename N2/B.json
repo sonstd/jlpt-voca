@@ -1,0 +1,672 @@
+[
+  {
+    "tango": "相次いで",
+    "yomikata": "あいついで",
+    "imi": "연달아"
+  },
+  {
+    "tango": "あいにく",
+    "yomikata": "",
+    "imi": "공교롭게도"
+  },
+  {
+    "tango": "あくまで",
+    "yomikata": "",
+    "imi": "끝까지, 철저하게"
+  },
+  {
+    "tango": "あまりにも",
+    "yomikata": "",
+    "imi": "너무, 너무나도"
+  },
+  {
+    "tango": "予め",
+    "yomikata": "あらかじめ",
+    "imi": "미리"
+  },
+  {
+    "tango": "改めて",
+    "yomikata": "あらためて",
+    "imi": "재차, 다시"
+  },
+  {
+    "tango": "あんまり",
+    "yomikata": "",
+    "imi": "별로, 그다지"
+  },
+  {
+    "tango": "いくぶん",
+    "yomikata": "",
+    "imi": "약간, 다소"
+  },
+  {
+    "tango": "いずれ",
+    "yomikata": "",
+    "imi": "머지않아"
+  },
+  {
+    "tango": "依然として",
+    "yomikata": "いぜんとして",
+    "imi": "여전히"
+  },
+  {
+    "tango": "一応",
+    "yomikata": "いちおう",
+    "imi": "일단"
+  },
+  {
+    "tango": "一段と",
+    "yomikata": "いちだんと",
+    "imi": "한층, 더욱"
+  },
+  {
+    "tango": "一層",
+    "yomikata": "いっそう",
+    "imi": "한층 더, 더욱, 한결"
+  },
+  {
+    "tango": "一旦",
+    "yomikata": "いったん",
+    "imi": "일단"
+  },
+  {
+    "tango": "いよいよ",
+    "yomikata": "",
+    "imi": "드디어"
+  },
+  {
+    "tango": "言わば",
+    "yomikata": "いわば",
+    "imi": "말하자면, 비유하건대, 이를테면"
+  },
+  {
+    "tango": "いわゆる",
+    "yomikata": "",
+    "imi": "이른바, 흔히 말하는, 소위"
+  },
+  {
+    "tango": "うかうか",
+    "yomikata": "",
+    "imi": "부주의하게, 멍하게"
+  },
+  {
+    "tango": "うとうと",
+    "yomikata": "",
+    "imi": "꾸벅꾸벅"
+  },
+  {
+    "tango": "うんと",
+    "yomikata": "",
+    "imi": "아주, 몹시"
+  },
+  {
+    "tango": "遠慮なく",
+    "yomikata": "えんりょなく",
+    "imi": "사양말고, 거리낌없이"
+  },
+  {
+    "tango": "おおよそ",
+    "yomikata": "",
+    "imi": "대강, 대충"
+  },
+  {
+    "tango": "おそらく",
+    "yomikata": "",
+    "imi": "아마, 필시, 분명"
+  },
+  {
+    "tango": "各々",
+    "yomikata": "おのおの",
+    "imi": "각각, 각자"
+  },
+  {
+    "tango": "思い切って",
+    "yomikata": "おもいきって",
+    "imi": "과감하게"
+  },
+  {
+    "tango": "思い切り",
+    "yomikata": "おもいきり",
+    "imi": "마음껏, 힘껏"
+  },
+  {
+    "tango": "かえって",
+    "yomikata": "",
+    "imi": "오히려, 도리어"
+  },
+  {
+    "tango": "かさかさ",
+    "yomikata": "",
+    "imi": "꺼칠꺼칠"
+  },
+  {
+    "tango": "かつて",
+    "yomikata": "",
+    "imi": "일찍이, 예전에, 이제껏"
+  },
+  {
+    "tango": "きっぱり",
+    "yomikata": "",
+    "imi": "단호히, 딱 잘라"
+  },
+  {
+    "tango": "ぐずぐず",
+    "yomikata": "",
+    "imi": "우물쭈물, 꾸물거림"
+  },
+  {
+    "tango": "くたくた",
+    "yomikata": "",
+    "imi": "기진맥진, 몹시 피로한, 녹초가 된"
+  },
+  {
+    "tango": "くれぐれも",
+    "yomikata": "",
+    "imi": "부디, 아무쪼록"
+  },
+  {
+    "tango": "現に",
+    "yomikata": "げんに",
+    "imi": "실제로"
+  },
+  {
+    "tango": "ごく",
+    "yomikata": "",
+    "imi": "매우, 극히"
+  },
+  {
+    "tango": "こつこつ",
+    "yomikata": "",
+    "imi": "꾸준히"
+  },
+  {
+    "tango": "再三",
+    "yomikata": "さいさん",
+    "imi": "재삼, 여러 번"
+  },
+  {
+    "tango": "さすが",
+    "yomikata": "",
+    "imi": "과연, 역시"
+  },
+  {
+    "tango": "さらに",
+    "yomikata": "",
+    "imi": "더욱 더, 한층 더"
+  },
+  {
+    "tango": "じかに",
+    "yomikata": "",
+    "imi": "직접, 바로"
+  },
+  {
+    "tango": "じきに",
+    "yomikata": "",
+    "imi": "곧"
+  },
+  {
+    "tango": "至急",
+    "yomikata": "しきゅう",
+    "imi": "시급히, 서둘러"
+  },
+  {
+    "tango": "しきりに",
+    "yomikata": "",
+    "imi": "자꾸만, 끊임없이, 계속"
+  },
+  {
+    "tango": "始終",
+    "yomikata": "しじゅう",
+    "imi": "언제나, 늘, 시종"
+  },
+  {
+    "tango": "実に",
+    "yomikata": "じつに",
+    "imi": "실로, 정말로"
+  },
+  {
+    "tango": "しばしば",
+    "yomikata": "",
+    "imi": "자주, 빈번히"
+  },
+  {
+    "tango": "じめじめ",
+    "yomikata": "",
+    "imi": "축축한, 음침한"
+  },
+  {
+    "tango": "順々に",
+    "yomikata": "じゅんじゅんに",
+    "imi": "차례차례"
+  },
+  {
+    "tango": "知らず知らず",
+    "yomikata": "しらずしらず",
+    "imi": "자기도 모르게, 무심코"
+  },
+  {
+    "tango": "すっきり",
+    "yomikata": "",
+    "imi": "산뜻하게, 상쾌하게"
+  },
+  {
+    "tango": "すっと",
+    "yomikata": "",
+    "imi": "상쾌하게, 후련하게, 재빨리"
+  },
+  {
+    "tango": "ずらり",
+    "yomikata": "",
+    "imi": "즐비하게, 죽"
+  },
+  {
+    "tango": "せいぜい",
+    "yomikata": "",
+    "imi": "고작, 기껏해야"
+  },
+  {
+    "tango": "せっかく",
+    "yomikata": "",
+    "imi": "모처럼"
+  },
+  {
+    "tango": "せっせと",
+    "yomikata": "",
+    "imi": "부지런히, 열심히"
+  },
+  {
+    "tango": "絶対",
+    "yomikata": "ぜったい",
+    "imi": "절대"
+  },
+  {
+    "tango": "ぜひとも",
+    "yomikata": "",
+    "imi": "꼭"
+  },
+  {
+    "tango": "せめて",
+    "yomikata": "",
+    "imi": "적어도"
+  },
+  {
+    "tango": "即座に",
+    "yomikata": "そくざに",
+    "imi": "즉석에서, 당장, 바로"
+  },
+  {
+    "tango": "そっくり",
+    "yomikata": "",
+    "imi": "전부"
+  },
+  {
+    "tango": "そのうち",
+    "yomikata": "",
+    "imi": "곧, 머지않아"
+  },
+  {
+    "tango": "絶えず",
+    "yomikata": "たえず",
+    "imi": "끊임없이, 항상"
+  },
+  {
+    "tango": "ただ",
+    "yomikata": "",
+    "imi": "그저, 단지"
+  },
+  {
+    "tango": "直ちに",
+    "yomikata": "ただちに",
+    "imi": "즉시, 당장, 곧장"
+  },
+  {
+    "tango": "たちまち",
+    "yomikata": "",
+    "imi": "금새"
+  },
+  {
+    "tango": "たとえ",
+    "yomikata": "",
+    "imi": "비록"
+  },
+  {
+    "tango": "たびたび",
+    "yomikata": "",
+    "imi": "자주, 가끔"
+  },
+  {
+    "tango": "だぶだぶ",
+    "yomikata": "",
+    "imi": "헐렁헐렁"
+  },
+  {
+    "tango": "近々",
+    "yomikata": "ちかぢか",
+    "imi": "가까운 시일 내에"
+  },
+  {
+    "tango": "ちなみに",
+    "yomikata": "",
+    "imi": "덧붙여서 말하자면, 이와 관련하여"
+  },
+  {
+    "tango": "着々と",
+    "yomikata": "ちゃくちゃくと",
+    "imi": "척척, 순조롭게"
+  },
+  {
+    "tango": "ついでに",
+    "yomikata": "",
+    "imi": "하는 김에"
+  },
+  {
+    "tango": "つまり",
+    "yomikata": "",
+    "imi": "즉"
+  },
+  {
+    "tango": "てきぱき",
+    "yomikata": "",
+    "imi": "척척"
+  },
+  {
+    "tango": "どうしても",
+    "yomikata": "",
+    "imi": "아무리 해도, 도무지, 반드시, 꼭"
+  },
+  {
+    "tango": "どうせ",
+    "yomikata": "",
+    "imi": "어차피, 결국"
+  },
+  {
+    "tango": "当然",
+    "yomikata": "とうぜん",
+    "imi": "당연히"
+  },
+  {
+    "tango": "当分",
+    "yomikata": "とうぶん",
+    "imi": "당분간"
+  },
+  {
+    "tango": "ところどころ",
+    "yomikata": "",
+    "imi": "군데군데, 여기저기"
+  },
+  {
+    "tango": "とっくに",
+    "yomikata": "",
+    "imi": "벌써, 진작에"
+  },
+  {
+    "tango": "どっと",
+    "yomikata": "",
+    "imi": "한꺼번에, 우르르"
+  },
+  {
+    "tango": "とにかく",
+    "yomikata": "",
+    "imi": "어쨌든"
+  },
+  {
+    "tango": "ともかく",
+    "yomikata": "",
+    "imi": "어쨌든"
+  },
+  {
+    "tango": "ともに",
+    "yomikata": "",
+    "imi": "모두, 함께"
+  },
+  {
+    "tango": "とりあえず",
+    "yomikata": "",
+    "imi": "우선, 일단"
+  },
+  {
+    "tango": "なお",
+    "yomikata": "",
+    "imi": "여전히, 아직, 더욱, 한층"
+  },
+  {
+    "tango": "なぜなら",
+    "yomikata": "",
+    "imi": "왜냐하면"
+  },
+  {
+    "tango": "なにしろ",
+    "yomikata": "",
+    "imi": "어쨌든"
+  },
+  {
+    "tango": "なにぶん",
+    "yomikata": "",
+    "imi": "부디, 아무래도, 아무튼"
+  },
+  {
+    "tango": "何か",
+    "yomikata": "なんか",
+    "imi": "어쩐지, 어딘지 모르게"
+  },
+  {
+    "tango": "何て",
+    "yomikata": "なんて",
+    "imi": "이 얼마나"
+  },
+  {
+    "tango": "何で",
+    "yomikata": "なんで",
+    "imi": "왜, 어째서"
+  },
+  {
+    "tango": "何とか",
+    "yomikata": "なんとか",
+    "imi": "어떻게든"
+  },
+  {
+    "tango": "何となく",
+    "yomikata": "なんとなく",
+    "imi": "어쩐지, 왠지"
+  },
+  {
+    "tango": "何とも",
+    "yomikata": "なんとも",
+    "imi": "정말로, 매우, 뭐라고도"
+  },
+  {
+    "tango": "何らか",
+    "yomikata": "なんらか",
+    "imi": "무언가, 얼마간, 어느 정도"
+  },
+  {
+    "tango": "にこにこ",
+    "yomikata": "",
+    "imi": "싱글벙글"
+  },
+  {
+    "tango": "二度と",
+    "yomikata": "にどと",
+    "imi": "두 번 다시"
+  },
+  {
+    "tango": "残らず",
+    "yomikata": "のこらず",
+    "imi": "남김없이"
+  },
+  {
+    "tango": "後ほど",
+    "yomikata": "のちほど",
+    "imi": "나중에, 잠시 후에"
+  },
+  {
+    "tango": "はたして",
+    "yomikata": "",
+    "imi": "과연, 역시"
+  },
+  {
+    "tango": "はらはら",
+    "yomikata": "",
+    "imi": "조마조마"
+  },
+  {
+    "tango": "比較的",
+    "yomikata": "ひかくてき",
+    "imi": "비교적"
+  },
+  {
+    "tango": "びっしょり",
+    "yomikata": "",
+    "imi": "흠뻑"
+  },
+  {
+    "tango": "一通り",
+    "yomikata": "ひととおり",
+    "imi": "대충"
+  },
+  {
+    "tango": "独りでに",
+    "yomikata": "ひとりでに",
+    "imi": "저절로, 자연히"
+  },
+  {
+    "tango": "一人一人",
+    "yomikata": "ひとりひとり",
+    "imi": "한 사람 한 사람, 각자"
+  },
+  {
+    "tango": "再び",
+    "yomikata": "ふたたび",
+    "imi": "다시"
+  },
+  {
+    "tango": "ふと",
+    "yomikata": "",
+    "imi": "문득"
+  },
+  {
+    "tango": "ふわふわ",
+    "yomikata": "",
+    "imi": "푹신푹신, 둥실둥실, 팔랑팔랑"
+  },
+  {
+    "tango": "ふんわり",
+    "yomikata": "",
+    "imi": "폭신폭신"
+  },
+  {
+    "tango": "ほぼ",
+    "yomikata": "",
+    "imi": "거의"
+  },
+  {
+    "tango": "ぼんやり",
+    "yomikata": "",
+    "imi": "희미하게, 멍하니"
+  },
+  {
+    "tango": "まあまあ",
+    "yomikata": "",
+    "imi": "그럭저럭"
+  },
+  {
+    "tango": "まさに",
+    "yomikata": "",
+    "imi": "확실하게, 정말로"
+  },
+  {
+    "tango": "ますます",
+    "yomikata": "",
+    "imi": "더욱 더"
+  },
+  {
+    "tango": "全く",
+    "yomikata": "まったく",
+    "imi": "완전히, 전혀"
+  },
+  {
+    "tango": "間もなく",
+    "yomikata": "まもなく",
+    "imi": "머지않아, 곧"
+  },
+  {
+    "tango": "まるで",
+    "yomikata": "",
+    "imi": "마치"
+  },
+  {
+    "tango": "万一",
+    "yomikata": "まんいち",
+    "imi": "만일"
+  },
+  {
+    "tango": "自ら",
+    "yomikata": "みずから",
+    "imi": "스스로"
+  },
+  {
+    "tango": "むしろ",
+    "yomikata": "",
+    "imi": "오히려"
+  },
+  {
+    "tango": "めいめい",
+    "yomikata": "",
+    "imi": "각각"
+  },
+  {
+    "tango": "めっきり",
+    "yomikata": "",
+    "imi": "뚜렷이, 현저히, 부쩍"
+  },
+  {
+    "tango": "めったに",
+    "yomikata": "",
+    "imi": "좀처럼"
+  },
+  {
+    "tango": "もしかして",
+    "yomikata": "",
+    "imi": "혹시, 어쩌면"
+  },
+  {
+    "tango": "もしも",
+    "yomikata": "",
+    "imi": "만약"
+  },
+  {
+    "tango": "もともと",
+    "yomikata": "",
+    "imi": "원래, 처음부터"
+  },
+  {
+    "tango": "やがて",
+    "yomikata": "",
+    "imi": "이윽고, 머지않아"
+  },
+  {
+    "tango": "やや",
+    "yomikata": "",
+    "imi": "약간"
+  },
+  {
+    "tango": "悠々",
+    "yomikata": "ゆうゆう",
+    "imi": "유유히, 여유롭게"
+  },
+  {
+    "tango": "要するに",
+    "yomikata": "ようするに",
+    "imi": "요컨대"
+  },
+  {
+    "tango": "わくわく",
+    "yomikata": "",
+    "imi": "두근두근"
+  },
+  {
+    "tango": "割と",
+    "yomikata": "わりと",
+    "imi": "비교적"
+  }
+]

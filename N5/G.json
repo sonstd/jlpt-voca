@@ -1,0 +1,207 @@
+[
+  {
+    "tango": "一",
+    "yomikata": "いち",
+    "imi": "1"
+  },
+  {
+    "tango": "二",
+    "yomikata": "に",
+    "imi": "2"
+  },
+  {
+    "tango": "三",
+    "yomikata": "さん",
+    "imi": "3"
+  },
+  {
+    "tango": "四",
+    "yomikata": "よん, し",
+    "imi": "4"
+  },
+  {
+    "tango": "五",
+    "yomikata": "ご",
+    "imi": "5"
+  },
+  {
+    "tango": "六",
+    "yomikata": "ろく",
+    "imi": "6"
+  },
+  {
+    "tango": "七",
+    "yomikata": "なな, しち",
+    "imi": "7"
+  },
+  {
+    "tango": "八",
+    "yomikata": "はち",
+    "imi": "8"
+  },
+  {
+    "tango": "九",
+    "yomikata": "きゅう, く",
+    "imi": "9"
+  },
+  {
+    "tango": "十",
+    "yomikata": "じゅう, とお",
+    "imi": "10, 10개(とお로 읽을 경우)"
+  },
+  {
+    "tango": "一つ",
+    "yomikata": "ひとつ",
+    "imi": "한개"
+  },
+  {
+    "tango": "二つ",
+    "yomikata": "ふたつ",
+    "imi": "두개"
+  },
+  {
+    "tango": "三つ",
+    "yomikata": "みっつ",
+    "imi": "세개"
+  },
+  {
+    "tango": "四つ",
+    "yomikata": "よっつ",
+    "imi": "네개"
+  },
+  {
+    "tango": "五つ",
+    "yomikata": "いつつ",
+    "imi": "다섯개"
+  },
+  {
+    "tango": "六つ",
+    "yomikata": "むっつ",
+    "imi": "여섯개"
+  },
+  {
+    "tango": "七つ",
+    "yomikata": "ななつ",
+    "imi": "일곱개"
+  },
+  {
+    "tango": "八つ",
+    "yomikata": "やっつ",
+    "imi": "여덟개"
+  },
+  {
+    "tango": "九つ",
+    "yomikata": "ここのつ",
+    "imi": "아홉개"
+  },
+  {
+    "tango": "一日 (날짜)",
+    "yomikata": "ついたち",
+    "imi": "1일 (날짜)"
+  },
+  {
+    "tango": "二日",
+    "yomikata": "ふつか",
+    "imi": "2일"
+  },
+  {
+    "tango": "三日",
+    "yomikata": "みっか",
+    "imi": "3일"
+  },
+  {
+    "tango": "四日",
+    "yomikata": "よっか",
+    "imi": "4일"
+  },
+  {
+    "tango": "五日",
+    "yomikata": "いつか",
+    "imi": "5일"
+  },
+  {
+    "tango": "六日",
+    "yomikata": "むいか",
+    "imi": "6일"
+  },
+  {
+    "tango": "七日",
+    "yomikata": "なのか",
+    "imi": "7일"
+  },
+  {
+    "tango": "八日",
+    "yomikata": "ようか",
+    "imi": "8일"
+  },
+  {
+    "tango": "九日",
+    "yomikata": "ここのか",
+    "imi": "9일"
+  },
+  {
+    "tango": "十日",
+    "yomikata": "とおか",
+    "imi": "10일"
+  },
+  {
+    "tango": "二十日",
+    "yomikata": "はつか",
+    "imi": "20일"
+  },
+  {
+    "tango": "一人",
+    "yomikata": "ひとり",
+    "imi": "한명"
+  },
+  {
+    "tango": "二人",
+    "yomikata": "ふたり",
+    "imi": "두명"
+  },
+  {
+    "tango": "あの",
+    "yomikata": "",
+    "imi": "저 <연체사>"
+  },
+  {
+    "tango": "その",
+    "yomikata": "",
+    "imi": "그 <연체사>"
+  },
+  {
+    "tango": "この",
+    "yomikata": "",
+    "imi": "이 <연체사>"
+  },
+  {
+    "tango": "どの",
+    "yomikata": "",
+    "imi": "어느"
+  },
+  {
+    "tango": "くらい, ぐらい",
+    "yomikata": "",
+    "imi": "~정도, ~만큼"
+  },
+  {
+    "tango": "ずつ",
+    "yomikata": "",
+    "imi": "~씩"
+  },
+  {
+    "tango": "だけ",
+    "yomikata": "",
+    "imi": "~만, ~뿐"
+  },
+  {
+    "tango": "でも",
+    "yomikata": "",
+    "imi": "그렇지만, 하지만"
+  },
+  {
+    "tango": "しかし",
+    "yomikata": "",
+    "imi": "하지만"
+  }
+]
